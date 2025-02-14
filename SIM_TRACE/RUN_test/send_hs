@@ -1,0 +1,2071 @@
+|L   1|2025/02/13,18:27:50.225223|Arnav-HP| |T 0|0.000000| Freeze ON. Simulation time holding at 0.000000 seconds.
+|L   3|2025/02/13,18:27:50.365342|Arnav-HP| |T 0|0.000000| Variable Server could not find variable dyn.ball.accel[0].
+|L   3|2025/02/13,18:27:50.365545|Arnav-HP| |T 0|0.000000| Variable Server could not find variable dyn.ball.accel[1].
+|L   3|2025/02/13,18:27:50.365648|Arnav-HP| |T 0|0.000000| Variable Server could not find variable dyn.ball.ang.
+|L  10|2025/02/13,18:27:50.365876|Arnav-HP| |T 0|0.000000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	1	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:27:50.466438|Arnav-HP| |T 0|0.000000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	1	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:27:50.567546|Arnav-HP| |T 0|0.000000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	1	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:27:50.668262|Arnav-HP| |T 0|0.000000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	1	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:27:50.769603|Arnav-HP| |T 0|0.000000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	1	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:27:50.871675|Arnav-HP| |T 0|0.000000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	1	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:27:50.973355|Arnav-HP| |T 0|0.000000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	1	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:27:51.076116|Arnav-HP| |T 0|0.000000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	1	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:27:51.179166|Arnav-HP| |T 0|0.000000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	1	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:27:51.281203|Arnav-HP| |T 0|0.000000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	1	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:27:51.383794|Arnav-HP| |T 0|0.000000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	1	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:27:51.485693|Arnav-HP| |T 0|0.000000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	1	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:27:51.586604|Arnav-HP| |T 0|0.000000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	1	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:27:51.687084|Arnav-HP| |T 0|0.000000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	1	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:27:51.787675|Arnav-HP| |T 0|0.000000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	1	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:27:51.888939|Arnav-HP| |T 0|0.000000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	1	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:27:51.989714|Arnav-HP| |T 0|0.000000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	1	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:27:52.090383|Arnav-HP| |T 0|0.000000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	1	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:27:52.191146|Arnav-HP| |T 0|0.000000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	1	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:27:52.292229|Arnav-HP| |T 0|0.000000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	1	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:27:52.392896|Arnav-HP| |T 0|0.000000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	1	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:27:52.493576|Arnav-HP| |T 0|0.000000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	1	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:27:52.596010|Arnav-HP| |T 0|0.000000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	1	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:27:52.698034|Arnav-HP| |T 0|0.000000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	1	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:27:52.800448|Arnav-HP| |T 0|0.000000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	1	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:27:52.902156|Arnav-HP| |T 0|0.000000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	1	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:27:53.004103|Arnav-HP| |T 0|0.000000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	1	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:27:53.105942|Arnav-HP| |T 0|0.000000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	1	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:27:53.207111|Arnav-HP| |T 0|0.000000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	1	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:27:53.308249|Arnav-HP| |T 0|0.000000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	1	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:27:53.410235|Arnav-HP| |T 0|0.000000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	1	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:27:53.511307|Arnav-HP| |T 0|0.000000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	1	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:27:53.612858|Arnav-HP| |T 0|0.000000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	1	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:27:53.715135|Arnav-HP| |T 0|0.000000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	1	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:27:53.816154|Arnav-HP| |T 0|0.000000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	1	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:27:53.917905|Arnav-HP| |T 0|0.000000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	1	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:27:54.018896|Arnav-HP| |T 0|0.000000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	1	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:27:54.120399|Arnav-HP| |T 0|0.000000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	1	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:27:54.220925|Arnav-HP| |T 0|0.000000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	1	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:27:54.321699|Arnav-HP| |T 0|0.000000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	1	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:27:54.423841|Arnav-HP| |T 0|0.000000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	1	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:27:54.525652|Arnav-HP| |T 0|0.000000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	1	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:27:54.627939|Arnav-HP| |T 0|0.000000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	1	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:27:54.730109|Arnav-HP| |T 0|0.000000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	1	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:27:54.831201|Arnav-HP| |T 0|0.000000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	1	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:27:54.932716|Arnav-HP| |T 0|0.000000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	1	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:27:55.034055|Arnav-HP| |T 0|0.000000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	1	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:27:55.135055|Arnav-HP| |T 0|0.000000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	1	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:27:55.236965|Arnav-HP| |T 0|0.000000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	1	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:27:55.338769|Arnav-HP| |T 0|0.000000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 47
+|L  10|2025/02/13,18:27:55.339029|Arnav-HP| |T 0|0.000000| tag=<myvsclient> time=0.000000 trick.robot_init( dyn.ball )
+trick.exec_run()
+|L  10|2025/02/13,18:27:55.339703|Arnav-HP| |T 0|0.000000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	1	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:27:55.440284|Arnav-HP| |T 0|0.000000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	1	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:27:55.541856|Arnav-HP| |T 0|0.000000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	1	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:27:55.642561|Arnav-HP| |T 0|0.000000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	1	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:27:55.743197|Arnav-HP| |T 0|0.000000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	1	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:27:55.845046|Arnav-HP| |T 0|0.000000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	1	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:27:55.945770|Arnav-HP| |T 0|0.000000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	1	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:27:56.047972|Arnav-HP| |T 0|0.000000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	1	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:27:56.150230|Arnav-HP| |T 0|0.000000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	1	BAD_REF	BAD_REF	BAD_REF
+
+|L   1|2025/02/13,18:27:56.225229|Arnav-HP| |T 0|0.000000| Freeze OFF.
+|L  10|2025/02/13,18:27:56.251395|Arnav-HP| |T 0|0.100000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:27:56.352517|Arnav-HP| |T 0|0.200000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:27:56.453582|Arnav-HP| |T 0|0.300000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:27:56.554968|Arnav-HP| |T 0|0.400000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:27:56.656377|Arnav-HP| |T 0|0.500000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:27:56.757471|Arnav-HP| |T 0|0.600000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 24
+|L  10|2025/02/13,18:27:56.757785|Arnav-HP| |T 0|0.600000| tag=<myvsclient> time=0.600000 dyn.ball.motor[0] = 1 
+|L  10|2025/02/13,18:27:56.758222|Arnav-HP| |T 0|0.600000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:27:56.859648|Arnav-HP| |T 0|0.700000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 24
+|L  10|2025/02/13,18:27:56.859802|Arnav-HP| |T 0|0.700000| tag=<myvsclient> time=0.700000 dyn.ball.motor[0] = 0 
+|L  10|2025/02/13,18:27:56.859998|Arnav-HP| |T 0|0.700000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:27:56.960252|Arnav-HP| |T 0|0.800000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:27:57.061823|Arnav-HP| |T 0|0.900000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:27:57.163351|Arnav-HP| |T 0|1.000000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:27:57.264854|Arnav-HP| |T 0|1.100000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:27:57.365926|Arnav-HP| |T 0|1.200000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 24
+|L  10|2025/02/13,18:27:57.366349|Arnav-HP| |T 0|1.200000| tag=<myvsclient> time=1.200000 dyn.ball.motor[0] = 1 
+|L  10|2025/02/13,18:27:57.366832|Arnav-HP| |T 0|1.200000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:27:57.467979|Arnav-HP| |T 0|1.300000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:27:57.570068|Arnav-HP| |T 0|1.400000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:27:57.671963|Arnav-HP| |T 0|1.500000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:27:57.772779|Arnav-HP| |T 0|1.600000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 24
+|L  10|2025/02/13,18:27:57.773128|Arnav-HP| |T 0|1.600000| tag=<myvsclient> time=1.600000 dyn.ball.motor[0] = 1 
+|L  10|2025/02/13,18:27:57.773628|Arnav-HP| |T 0|1.600000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:27:57.874217|Arnav-HP| |T 0|1.700000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 93
+|L  10|2025/02/13,18:27:57.874401|Arnav-HP| |T 0|1.700000| tag=<myvsclient> time=1.700000 dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+|L  10|2025/02/13,18:27:57.874703|Arnav-HP| |T 0|1.700000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:27:57.975879|Arnav-HP| |T 0|1.800000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 93
+|L  10|2025/02/13,18:27:57.976241|Arnav-HP| |T 0|1.800000| tag=<myvsclient> time=1.800000 dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+|L  10|2025/02/13,18:27:57.976759|Arnav-HP| |T 0|1.800000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:27:58.077371|Arnav-HP| |T 0|1.900000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 93
+|L  10|2025/02/13,18:27:58.077652|Arnav-HP| |T 0|1.900000| tag=<myvsclient> time=1.900000 dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+|L  10|2025/02/13,18:27:58.078303|Arnav-HP| |T 0|1.900000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:27:58.179801|Arnav-HP| |T 0|2.000000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 93
+|L  10|2025/02/13,18:27:58.180019|Arnav-HP| |T 0|2.000000| tag=<myvsclient> time=2.000000 dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+|L  10|2025/02/13,18:27:58.180445|Arnav-HP| |T 0|2.000000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:27:58.281130|Arnav-HP| |T 0|2.100000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 93
+|L  10|2025/02/13,18:27:58.281349|Arnav-HP| |T 0|2.100000| tag=<myvsclient> time=2.100000 dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+|L  10|2025/02/13,18:27:58.281739|Arnav-HP| |T 0|2.100000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:27:58.382711|Arnav-HP| |T 0|2.200000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 47
+|L  10|2025/02/13,18:27:58.382979|Arnav-HP| |T 0|2.200000| tag=<myvsclient> time=2.200000 dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+|L  10|2025/02/13,18:27:58.383400|Arnav-HP| |T 0|2.200000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:27:58.484541|Arnav-HP| |T 0|2.300000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 93
+|L  10|2025/02/13,18:27:58.484862|Arnav-HP| |T 0|2.300000| tag=<myvsclient> time=2.300000 dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+|L  10|2025/02/13,18:27:58.485382|Arnav-HP| |T 0|2.300000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:27:58.586999|Arnav-HP| |T 0|2.400000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 116
+|L  10|2025/02/13,18:27:58.587139|Arnav-HP| |T 0|2.400000| tag=<myvsclient> time=2.400000 dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 0 
+|L  10|2025/02/13,18:27:58.587386|Arnav-HP| |T 0|2.400000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:27:58.687965|Arnav-HP| |T 0|2.500000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:27:58.789943|Arnav-HP| |T 0|2.600000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:27:58.890754|Arnav-HP| |T 0|2.700000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:27:58.991195|Arnav-HP| |T 0|2.800000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 25
+|L  10|2025/02/13,18:27:58.991356|Arnav-HP| |T 0|2.800000| tag=<myvsclient> time=2.800000 dyn.ball.motor[0] = -1 
+|L  10|2025/02/13,18:27:58.991629|Arnav-HP| |T 0|2.800000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:27:59.092319|Arnav-HP| |T 0|2.900000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:27:59.194605|Arnav-HP| |T 0|3.000000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:27:59.295531|Arnav-HP| |T 0|3.100000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:27:59.396195|Arnav-HP| |T 0|3.200000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 24
+|L  10|2025/02/13,18:27:59.396334|Arnav-HP| |T 0|3.200000| tag=<myvsclient> time=3.200000 dyn.ball.motor[0] = 0 
+|L  10|2025/02/13,18:27:59.396521|Arnav-HP| |T 0|3.200000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:27:59.497289|Arnav-HP| |T 0|3.300000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 24
+|L  10|2025/02/13,18:27:59.497633|Arnav-HP| |T 0|3.300000| tag=<myvsclient> time=3.300000 dyn.ball.motor[1] = 1 
+|L  10|2025/02/13,18:27:59.498058|Arnav-HP| |T 0|3.300000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:27:59.600303|Arnav-HP| |T 0|3.400000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:27:59.701276|Arnav-HP| |T 0|3.500000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:27:59.801795|Arnav-HP| |T 0|3.600000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 24
+|L  10|2025/02/13,18:27:59.802075|Arnav-HP| |T 0|3.600000| tag=<myvsclient> time=3.600000 dyn.ball.motor[1] = 0 
+|L  10|2025/02/13,18:27:59.802479|Arnav-HP| |T 0|3.600000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:27:59.903396|Arnav-HP| |T 0|3.700000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:00.005190|Arnav-HP| |T 0|3.800000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:00.106133|Arnav-HP| |T 0|3.900000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 25
+|L  10|2025/02/13,18:28:00.106475|Arnav-HP| |T 0|3.900000| tag=<myvsclient> time=3.900000 dyn.ball.motor[1] = -1 
+|L  10|2025/02/13,18:28:00.106946|Arnav-HP| |T 0|3.900000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:00.209124|Arnav-HP| |T 0|4.000000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:00.310453|Arnav-HP| |T 0|4.100000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:00.411272|Arnav-HP| |T 0|4.200000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 25
+|L  10|2025/02/13,18:28:00.411406|Arnav-HP| |T 0|4.200000| tag=<myvsclient> time=4.200000 dyn.ball.motor[1] = -1 
+|L  10|2025/02/13,18:28:00.411613|Arnav-HP| |T 0|4.200000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:00.512151|Arnav-HP| |T 0|4.300000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 97
+|L  10|2025/02/13,18:28:00.512328|Arnav-HP| |T 0|4.300000| tag=<myvsclient> time=4.300000 dyn.ball.motor[1] = -1 
+dyn.ball.motor[1] = -1 
+dyn.ball.motor[1] = -1 
+dyn.ball.motor[1] = -1 
+|L  10|2025/02/13,18:28:00.512676|Arnav-HP| |T 0|4.300000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:00.613815|Arnav-HP| |T 0|4.400000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 72
+|L  10|2025/02/13,18:28:00.614095|Arnav-HP| |T 0|4.400000| tag=<myvsclient> time=4.400000 dyn.ball.motor[1] = -1 
+dyn.ball.motor[1] = -1 
+dyn.ball.motor[1] = 0 
+|L  10|2025/02/13,18:28:00.614512|Arnav-HP| |T 0|4.400000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:00.715589|Arnav-HP| |T 0|4.500000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 24
+|L  10|2025/02/13,18:28:00.715742|Arnav-HP| |T 0|4.500000| tag=<myvsclient> time=4.500000 dyn.ball.motor[0] = 1 
+|L  10|2025/02/13,18:28:00.715947|Arnav-HP| |T 0|4.500000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:00.816635|Arnav-HP| |T 0|4.600000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 24
+|L  10|2025/02/13,18:28:00.816788|Arnav-HP| |T 0|4.600000| tag=<myvsclient> time=4.600000 dyn.ball.motor[0] = 0 
+|L  10|2025/02/13,18:28:00.817005|Arnav-HP| |T 0|4.600000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:00.918093|Arnav-HP| |T 0|4.700000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:01.020180|Arnav-HP| |T 0|4.800000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 25
+|L  10|2025/02/13,18:28:01.020403|Arnav-HP| |T 0|4.800000| tag=<myvsclient> time=4.800000 dyn.ball.motor[0] = -1 
+|L  10|2025/02/13,18:28:01.020757|Arnav-HP| |T 0|4.800000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:01.121921|Arnav-HP| |T 0|4.900000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 24
+|L  10|2025/02/13,18:28:01.122038|Arnav-HP| |T 0|4.900000| tag=<myvsclient> time=4.900000 dyn.ball.motor[0] = 0 
+|L  10|2025/02/13,18:28:01.122233|Arnav-HP| |T 0|4.900000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:01.224474|Arnav-HP| |T 0|5.000000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 24
+|L  10|2025/02/13,18:28:01.225175|Arnav-HP| |T 0|5.000000| tag=<myvsclient> time=5.000000 dyn.ball.motor[1] = 1 
+|L  10|2025/02/13,18:28:01.225843|Arnav-HP| |T 0|5.100000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:01.327074|Arnav-HP| |T 0|5.200000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 24
+|L  10|2025/02/13,18:28:01.327323|Arnav-HP| |T 0|5.200000| tag=<myvsclient> time=5.200000 dyn.ball.motor[1] = 0 
+|L  10|2025/02/13,18:28:01.327681|Arnav-HP| |T 0|5.200000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:01.428603|Arnav-HP| |T 0|5.300000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 25
+|L  10|2025/02/13,18:28:01.428771|Arnav-HP| |T 0|5.300000| tag=<myvsclient> time=5.300000 dyn.ball.motor[1] = -1 
+|L  10|2025/02/13,18:28:01.429015|Arnav-HP| |T 0|5.300000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:01.530441|Arnav-HP| |T 0|5.400000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:01.631328|Arnav-HP| |T 0|5.500000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:01.732911|Arnav-HP| |T 0|5.600000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:01.833999|Arnav-HP| |T 0|5.700000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 24
+|L  10|2025/02/13,18:28:01.834436|Arnav-HP| |T 0|5.700000| tag=<myvsclient> time=5.700000 dyn.ball.motor[1] = 0 
+|L  10|2025/02/13,18:28:01.835056|Arnav-HP| |T 0|5.700000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:01.935935|Arnav-HP| |T 0|5.800000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 24
+|L  10|2025/02/13,18:28:01.936143|Arnav-HP| |T 0|5.800000| tag=<myvsclient> time=5.800000 dyn.ball.motor[1] = 1 
+|L  10|2025/02/13,18:28:01.936468|Arnav-HP| |T 0|5.800000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:02.038461|Arnav-HP| |T 0|5.900000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:02.140028|Arnav-HP| |T 0|6.000000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 24
+|L  10|2025/02/13,18:28:02.140190|Arnav-HP| |T 0|6.000000| tag=<myvsclient> time=6.000000 dyn.ball.motor[1] = 0 
+|L  10|2025/02/13,18:28:02.140417|Arnav-HP| |T 0|6.000000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:02.242077|Arnav-HP| |T 0|6.100000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 25
+|L  10|2025/02/13,18:28:02.242213|Arnav-HP| |T 0|6.100000| tag=<myvsclient> time=6.100000 dyn.ball.motor[1] = -1 
+|L  10|2025/02/13,18:28:02.242400|Arnav-HP| |T 0|6.100000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:02.342922|Arnav-HP| |T 0|6.200000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 24
+|L  10|2025/02/13,18:28:02.343052|Arnav-HP| |T 0|6.200000| tag=<myvsclient> time=6.200000 dyn.ball.motor[1] = 0 
+|L  10|2025/02/13,18:28:02.343257|Arnav-HP| |T 0|6.200000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:02.443679|Arnav-HP| |T 0|6.300000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 24
+|L  10|2025/02/13,18:28:02.443992|Arnav-HP| |T 0|6.300000| tag=<myvsclient> time=6.300000 dyn.ball.motor[1] = 1 
+|L  10|2025/02/13,18:28:02.444427|Arnav-HP| |T 0|6.300000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:02.545327|Arnav-HP| |T 0|6.400000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 24
+|L  10|2025/02/13,18:28:02.545618|Arnav-HP| |T 0|6.400000| tag=<myvsclient> time=6.400000 dyn.ball.motor[1] = 0 
+|L  10|2025/02/13,18:28:02.546022|Arnav-HP| |T 0|6.400000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:02.647171|Arnav-HP| |T 0|6.500000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:02.748488|Arnav-HP| |T 0|6.600000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:02.850264|Arnav-HP| |T 0|6.700000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:02.951348|Arnav-HP| |T 0|6.800000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:03.052777|Arnav-HP| |T 0|6.900000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:03.153213|Arnav-HP| |T 0|7.000000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 24
+|L  10|2025/02/13,18:28:03.153334|Arnav-HP| |T 0|7.000000| tag=<myvsclient> time=7.000000 dyn.ball.motor[0] = 1 
+|L  10|2025/02/13,18:28:03.153561|Arnav-HP| |T 0|7.000000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:03.254638|Arnav-HP| |T 0|7.100000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:03.356003|Arnav-HP| |T 0|7.200000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:03.457045|Arnav-HP| |T 0|7.300000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:03.557838|Arnav-HP| |T 0|7.400000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 24
+|L  10|2025/02/13,18:28:03.558007|Arnav-HP| |T 0|7.400000| tag=<myvsclient> time=7.400000 dyn.ball.motor[0] = 1 
+|L  10|2025/02/13,18:28:03.558241|Arnav-HP| |T 0|7.400000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:03.658747|Arnav-HP| |T 0|7.500000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 93
+|L  10|2025/02/13,18:28:03.659276|Arnav-HP| |T 0|7.500000| tag=<myvsclient> time=7.500000 dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+|L  10|2025/02/13,18:28:03.660183|Arnav-HP| |T 0|7.500000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:03.760710|Arnav-HP| |T 0|7.600000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 93
+|L  10|2025/02/13,18:28:03.760878|Arnav-HP| |T 0|7.600000| tag=<myvsclient> time=7.600000 dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+|L  10|2025/02/13,18:28:03.761103|Arnav-HP| |T 0|7.600000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:03.861640|Arnav-HP| |T 0|7.700000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 93
+|L  10|2025/02/13,18:28:03.861940|Arnav-HP| |T 0|7.700000| tag=<myvsclient> time=7.700000 dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+|L  10|2025/02/13,18:28:03.862386|Arnav-HP| |T 0|7.700000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:03.962960|Arnav-HP| |T 0|7.800000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 93
+|L  10|2025/02/13,18:28:03.963354|Arnav-HP| |T 0|7.800000| tag=<myvsclient> time=7.800000 dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+|L  10|2025/02/13,18:28:03.963900|Arnav-HP| |T 0|7.800000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:04.064399|Arnav-HP| |T 0|7.900000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 70
+|L  10|2025/02/13,18:28:04.064567|Arnav-HP| |T 0|7.900000| tag=<myvsclient> time=7.900000 dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+|L  10|2025/02/13,18:28:04.064854|Arnav-HP| |T 0|7.900000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:04.165356|Arnav-HP| |T 0|8.000000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 70
+|L  10|2025/02/13,18:28:04.165484|Arnav-HP| |T 0|8.000000| tag=<myvsclient> time=8.000000 dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+|L  10|2025/02/13,18:28:04.165757|Arnav-HP| |T 0|8.000000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:04.266446|Arnav-HP| |T 0|8.100000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 116
+|L  10|2025/02/13,18:28:04.266742|Arnav-HP| |T 0|8.100000| tag=<myvsclient> time=8.100000 dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+|L  10|2025/02/13,18:28:04.267224|Arnav-HP| |T 0|8.100000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:04.368105|Arnav-HP| |T 0|8.200000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 70
+|L  10|2025/02/13,18:28:04.368355|Arnav-HP| |T 0|8.200000| tag=<myvsclient> time=8.200000 dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+|L  10|2025/02/13,18:28:04.368855|Arnav-HP| |T 0|8.200000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:04.469288|Arnav-HP| |T 0|8.300000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 93
+|L  10|2025/02/13,18:28:04.469410|Arnav-HP| |T 0|8.300000| tag=<myvsclient> time=8.300000 dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+|L  10|2025/02/13,18:28:04.469639|Arnav-HP| |T 0|8.300000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:04.570265|Arnav-HP| |T 0|8.400000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 93
+|L  10|2025/02/13,18:28:04.570491|Arnav-HP| |T 0|8.400000| tag=<myvsclient> time=8.400000 dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+|L  10|2025/02/13,18:28:04.570840|Arnav-HP| |T 0|8.400000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:04.671756|Arnav-HP| |T 0|8.500000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 93
+|L  10|2025/02/13,18:28:04.672004|Arnav-HP| |T 0|8.500000| tag=<myvsclient> time=8.500000 dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+|L  10|2025/02/13,18:28:04.672387|Arnav-HP| |T 0|8.500000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:04.772873|Arnav-HP| |T 0|8.600000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 116
+|L  10|2025/02/13,18:28:04.773150|Arnav-HP| |T 0|8.600000| tag=<myvsclient> time=8.600000 dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+|L  10|2025/02/13,18:28:04.773744|Arnav-HP| |T 0|8.600000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:04.874727|Arnav-HP| |T 0|8.700000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 93
+|L  10|2025/02/13,18:28:04.874873|Arnav-HP| |T 0|8.700000| tag=<myvsclient> time=8.700000 dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+|L  10|2025/02/13,18:28:04.875112|Arnav-HP| |T 0|8.700000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:04.975646|Arnav-HP| |T 0|8.800000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 70
+|L  10|2025/02/13,18:28:04.975802|Arnav-HP| |T 0|8.800000| tag=<myvsclient> time=8.800000 dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+|L  10|2025/02/13,18:28:04.976025|Arnav-HP| |T 0|8.800000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:05.077022|Arnav-HP| |T 0|8.900000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 93
+|L  10|2025/02/13,18:28:05.077398|Arnav-HP| |T 0|8.900000| tag=<myvsclient> time=8.900000 dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+|L  10|2025/02/13,18:28:05.077854|Arnav-HP| |T 0|8.900000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:05.178803|Arnav-HP| |T 0|9.000000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 93
+|L  10|2025/02/13,18:28:05.179045|Arnav-HP| |T 0|9.000000| tag=<myvsclient> time=9.000000 dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+|L  10|2025/02/13,18:28:05.179399|Arnav-HP| |T 0|9.000000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:05.279674|Arnav-HP| |T 0|9.100000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 93
+|L  10|2025/02/13,18:28:05.279810|Arnav-HP| |T 0|9.100000| tag=<myvsclient> time=9.100000 dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+|L  10|2025/02/13,18:28:05.280064|Arnav-HP| |T 0|9.100000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:05.380349|Arnav-HP| |T 0|9.200000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 70
+|L  10|2025/02/13,18:28:05.380510|Arnav-HP| |T 0|9.200000| tag=<myvsclient> time=9.200000 dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+|L  10|2025/02/13,18:28:05.380755|Arnav-HP| |T 0|9.200000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:05.481738|Arnav-HP| |T 0|9.300000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 116
+|L  10|2025/02/13,18:28:05.481854|Arnav-HP| |T 0|9.300000| tag=<myvsclient> time=9.300000 dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+|L  10|2025/02/13,18:28:05.482068|Arnav-HP| |T 0|9.300000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:05.582559|Arnav-HP| |T 0|9.400000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 116
+|L  10|2025/02/13,18:28:05.582969|Arnav-HP| |T 0|9.400000| tag=<myvsclient> time=9.400000 dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+|L  10|2025/02/13,18:28:05.583534|Arnav-HP| |T 0|9.400000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:05.684189|Arnav-HP| |T 0|9.500000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 93
+|L  10|2025/02/13,18:28:05.684454|Arnav-HP| |T 0|9.500000| tag=<myvsclient> time=9.500000 dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+|L  10|2025/02/13,18:28:05.684875|Arnav-HP| |T 0|9.500000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:05.785793|Arnav-HP| |T 0|9.600000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 24
+|L  10|2025/02/13,18:28:05.785960|Arnav-HP| |T 0|9.600000| tag=<myvsclient> time=9.600000 dyn.ball.motor[0] = 0 
+|L  10|2025/02/13,18:28:05.786184|Arnav-HP| |T 0|9.600000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:05.887101|Arnav-HP| |T 0|9.700000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:05.987795|Arnav-HP| |T 0|9.800000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 24
+|L  10|2025/02/13,18:28:05.988089|Arnav-HP| |T 0|9.800000| tag=<myvsclient> time=9.800000 dyn.ball.motor[0] = 1 
+|L  10|2025/02/13,18:28:05.988706|Arnav-HP| |T 0|9.800000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:06.089607|Arnav-HP| |T 0|9.900000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:06.191141|Arnav-HP| |T 0|10.000000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:06.292630|Arnav-HP| |T 0|10.100000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 24
+|L  10|2025/02/13,18:28:06.292934|Arnav-HP| |T 0|10.100000| tag=<myvsclient> time=10.100000 dyn.ball.motor[0] = 1 
+|L  10|2025/02/13,18:28:06.293356|Arnav-HP| |T 0|10.100000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:06.394033|Arnav-HP| |T 0|10.200000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 93
+|L  10|2025/02/13,18:28:06.394414|Arnav-HP| |T 0|10.200000| tag=<myvsclient> time=10.200000 dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+|L  10|2025/02/13,18:28:06.395027|Arnav-HP| |T 0|10.200000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:06.495529|Arnav-HP| |T 0|10.300000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 93
+|L  10|2025/02/13,18:28:06.495742|Arnav-HP| |T 0|10.300000| tag=<myvsclient> time=10.300000 dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+|L  10|2025/02/13,18:28:06.496116|Arnav-HP| |T 0|10.300000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:06.596548|Arnav-HP| |T 0|10.400000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 93
+|L  10|2025/02/13,18:28:06.596814|Arnav-HP| |T 0|10.400000| tag=<myvsclient> time=10.400000 dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+|L  10|2025/02/13,18:28:06.597099|Arnav-HP| |T 0|10.400000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:06.697510|Arnav-HP| |T 0|10.500000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 93
+|L  10|2025/02/13,18:28:06.697769|Arnav-HP| |T 0|10.500000| tag=<myvsclient> time=10.500000 dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+|L  10|2025/02/13,18:28:06.698234|Arnav-HP| |T 0|10.500000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:06.798746|Arnav-HP| |T 0|10.600000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 47
+|L  10|2025/02/13,18:28:06.798942|Arnav-HP| |T 0|10.600000| tag=<myvsclient> time=10.600000 dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+|L  10|2025/02/13,18:28:06.799281|Arnav-HP| |T 0|10.600000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:06.899866|Arnav-HP| |T 0|10.700000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 93
+|L  10|2025/02/13,18:28:06.900082|Arnav-HP| |T 0|10.700000| tag=<myvsclient> time=10.700000 dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+|L  10|2025/02/13,18:28:06.900441|Arnav-HP| |T 0|10.700000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:07.001698|Arnav-HP| |T 0|10.800000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 93
+|L  10|2025/02/13,18:28:07.001920|Arnav-HP| |T 0|10.800000| tag=<myvsclient> time=10.800000 dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+|L  10|2025/02/13,18:28:07.002399|Arnav-HP| |T 0|10.800000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:07.103022|Arnav-HP| |T 0|10.900000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 93
+|L  10|2025/02/13,18:28:07.103139|Arnav-HP| |T 0|10.900000| tag=<myvsclient> time=10.900000 dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+|L  10|2025/02/13,18:28:07.103338|Arnav-HP| |T 0|10.900000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:07.205077|Arnav-HP| |T 0|11.000000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 93
+|L  10|2025/02/13,18:28:07.205192|Arnav-HP| |T 0|11.000000| tag=<myvsclient> time=11.000000 dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+|L  10|2025/02/13,18:28:07.205390|Arnav-HP| |T 0|11.000000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:07.305780|Arnav-HP| |T 0|11.100000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 93
+|L  10|2025/02/13,18:28:07.305885|Arnav-HP| |T 0|11.100000| tag=<myvsclient> time=11.100000 dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+|L  10|2025/02/13,18:28:07.306155|Arnav-HP| |T 0|11.100000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:07.406783|Arnav-HP| |T 0|11.200000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 70
+|L  10|2025/02/13,18:28:07.407032|Arnav-HP| |T 0|11.200000| tag=<myvsclient> time=11.200000 dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+|L  10|2025/02/13,18:28:07.407451|Arnav-HP| |T 0|11.200000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:07.508993|Arnav-HP| |T 0|11.300000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 116
+|L  10|2025/02/13,18:28:07.509253|Arnav-HP| |T 0|11.300000| tag=<myvsclient> time=11.300000 dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+|L  10|2025/02/13,18:28:07.509754|Arnav-HP| |T 0|11.300000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:07.611278|Arnav-HP| |T 0|11.400000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 47
+|L  10|2025/02/13,18:28:07.611650|Arnav-HP| |T 0|11.400000| tag=<myvsclient> time=11.400000 dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 0 
+|L  10|2025/02/13,18:28:07.612209|Arnav-HP| |T 0|11.400000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:07.712878|Arnav-HP| |T 0|11.500000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 25
+|L  10|2025/02/13,18:28:07.713041|Arnav-HP| |T 0|11.500000| tag=<myvsclient> time=11.500000 dyn.ball.motor[0] = -1 
+|L  10|2025/02/13,18:28:07.713418|Arnav-HP| |T 0|11.500000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:07.815338|Arnav-HP| |T 0|11.600000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:07.917102|Arnav-HP| |T 0|11.700000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:08.017752|Arnav-HP| |T 0|11.800000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 25
+|L  10|2025/02/13,18:28:08.018006|Arnav-HP| |T 0|11.800000| tag=<myvsclient> time=11.800000 dyn.ball.motor[0] = -1 
+|L  10|2025/02/13,18:28:08.018345|Arnav-HP| |T 0|11.800000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:08.120443|Arnav-HP| |T 0|11.900000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 97
+|L  10|2025/02/13,18:28:08.120827|Arnav-HP| |T 0|11.900000| tag=<myvsclient> time=11.900000 dyn.ball.motor[0] = -1 
+dyn.ball.motor[0] = -1 
+dyn.ball.motor[0] = -1 
+dyn.ball.motor[0] = -1 
+|L  10|2025/02/13,18:28:08.121302|Arnav-HP| |T 0|11.900000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:08.221798|Arnav-HP| |T 0|12.000000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 97
+|L  10|2025/02/13,18:28:08.221936|Arnav-HP| |T 0|12.000000| tag=<myvsclient> time=12.000000 dyn.ball.motor[0] = -1 
+dyn.ball.motor[0] = -1 
+dyn.ball.motor[0] = -1 
+dyn.ball.motor[0] = -1 
+|L  10|2025/02/13,18:28:08.222172|Arnav-HP| |T 0|12.000000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:08.322962|Arnav-HP| |T 0|12.100000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 97
+|L  10|2025/02/13,18:28:08.323123|Arnav-HP| |T 0|12.100000| tag=<myvsclient> time=12.100000 dyn.ball.motor[0] = -1 
+dyn.ball.motor[0] = -1 
+dyn.ball.motor[0] = -1 
+dyn.ball.motor[0] = -1 
+|L  10|2025/02/13,18:28:08.323335|Arnav-HP| |T 0|12.100000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:08.424028|Arnav-HP| |T 0|12.200000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 97
+|L  10|2025/02/13,18:28:08.424175|Arnav-HP| |T 0|12.200000| tag=<myvsclient> time=12.200000 dyn.ball.motor[0] = -1 
+dyn.ball.motor[0] = -1 
+dyn.ball.motor[0] = -1 
+dyn.ball.motor[0] = -1 
+|L  10|2025/02/13,18:28:08.424457|Arnav-HP| |T 0|12.200000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:08.525435|Arnav-HP| |T 0|12.400000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 49
+|L  10|2025/02/13,18:28:08.525559|Arnav-HP| |T 0|12.400000| tag=<myvsclient> time=12.400000 dyn.ball.motor[0] = -1 
+dyn.ball.motor[0] = -1 
+|L  10|2025/02/13,18:28:08.526075|Arnav-HP| |T 0|12.400000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:08.626880|Arnav-HP| |T 0|12.500000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 97
+|L  10|2025/02/13,18:28:08.627172|Arnav-HP| |T 0|12.500000| tag=<myvsclient> time=12.500000 dyn.ball.motor[0] = -1 
+dyn.ball.motor[0] = -1 
+dyn.ball.motor[0] = -1 
+dyn.ball.motor[0] = -1 
+|L  10|2025/02/13,18:28:08.627716|Arnav-HP| |T 0|12.500000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:08.728243|Arnav-HP| |T 0|12.600000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 121
+|L  10|2025/02/13,18:28:08.728498|Arnav-HP| |T 0|12.600000| tag=<myvsclient> time=12.600000 dyn.ball.motor[0] = -1 
+dyn.ball.motor[0] = -1 
+dyn.ball.motor[0] = -1 
+dyn.ball.motor[0] = -1 
+dyn.ball.motor[0] = -1 
+|L  10|2025/02/13,18:28:08.728908|Arnav-HP| |T 0|12.600000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:08.829266|Arnav-HP| |T 0|12.700000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 73
+|L  10|2025/02/13,18:28:08.829399|Arnav-HP| |T 0|12.700000| tag=<myvsclient> time=12.700000 dyn.ball.motor[0] = -1 
+dyn.ball.motor[0] = -1 
+dyn.ball.motor[0] = -1 
+|L  10|2025/02/13,18:28:08.829678|Arnav-HP| |T 0|12.700000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:08.930181|Arnav-HP| |T 0|12.800000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 97
+|L  10|2025/02/13,18:28:08.930398|Arnav-HP| |T 0|12.800000| tag=<myvsclient> time=12.800000 dyn.ball.motor[0] = -1 
+dyn.ball.motor[0] = -1 
+dyn.ball.motor[0] = -1 
+dyn.ball.motor[0] = -1 
+|L  10|2025/02/13,18:28:08.930743|Arnav-HP| |T 0|12.800000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:09.032520|Arnav-HP| |T 0|12.900000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 96
+|L  10|2025/02/13,18:28:09.032897|Arnav-HP| |T 0|12.900000| tag=<myvsclient> time=12.900000 dyn.ball.motor[0] = -1 
+dyn.ball.motor[0] = -1 
+dyn.ball.motor[0] = -1 
+dyn.ball.motor[0] = 0 
+|L  10|2025/02/13,18:28:09.033563|Arnav-HP| |T 0|12.900000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:09.135738|Arnav-HP| |T 0|13.000000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:09.237044|Arnav-HP| |T 0|13.100000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:09.338130|Arnav-HP| |T 0|13.200000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 24
+|L  10|2025/02/13,18:28:09.338262|Arnav-HP| |T 0|13.200000| tag=<myvsclient> time=13.200000 dyn.ball.motor[1] = 1 
+|L  10|2025/02/13,18:28:09.338476|Arnav-HP| |T 0|13.200000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:09.439649|Arnav-HP| |T 0|13.300000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:09.541378|Arnav-HP| |T 0|13.400000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:09.643324|Arnav-HP| |T 0|13.500000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:09.744246|Arnav-HP| |T 0|13.600000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 70
+|L  10|2025/02/13,18:28:09.744441|Arnav-HP| |T 0|13.600000| tag=<myvsclient> time=13.600000 dyn.ball.motor[1] = 1 
+dyn.ball.motor[1] = 1 
+dyn.ball.motor[1] = 1 
+|L  10|2025/02/13,18:28:09.744750|Arnav-HP| |T 0|13.600000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:09.845433|Arnav-HP| |T 0|13.700000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 93
+|L  10|2025/02/13,18:28:09.845639|Arnav-HP| |T 0|13.700000| tag=<myvsclient> time=13.700000 dyn.ball.motor[1] = 1 
+dyn.ball.motor[1] = 1 
+dyn.ball.motor[1] = 1 
+dyn.ball.motor[1] = 1 
+|L  10|2025/02/13,18:28:09.846001|Arnav-HP| |T 0|13.700000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:09.947821|Arnav-HP| |T 0|13.800000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 93
+|L  10|2025/02/13,18:28:09.948065|Arnav-HP| |T 0|13.800000| tag=<myvsclient> time=13.800000 dyn.ball.motor[1] = 1 
+dyn.ball.motor[1] = 1 
+dyn.ball.motor[1] = 1 
+dyn.ball.motor[1] = 1 
+|L  10|2025/02/13,18:28:09.948578|Arnav-HP| |T 0|13.800000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:10.048881|Arnav-HP| |T 0|13.900000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 93
+|L  10|2025/02/13,18:28:10.049103|Arnav-HP| |T 0|13.900000| tag=<myvsclient> time=13.900000 dyn.ball.motor[1] = 1 
+dyn.ball.motor[1] = 1 
+dyn.ball.motor[1] = 1 
+dyn.ball.motor[1] = 1 
+|L  10|2025/02/13,18:28:10.049367|Arnav-HP| |T 0|13.900000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:10.151162|Arnav-HP| |T 0|14.000000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 93
+|L  10|2025/02/13,18:28:10.151431|Arnav-HP| |T 0|14.000000| tag=<myvsclient> time=14.000000 dyn.ball.motor[1] = 1 
+dyn.ball.motor[1] = 1 
+dyn.ball.motor[1] = 1 
+dyn.ball.motor[1] = 1 
+|L  10|2025/02/13,18:28:10.152326|Arnav-HP| |T 0|14.000000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:10.253717|Arnav-HP| |T 0|14.100000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 47
+|L  10|2025/02/13,18:28:10.254001|Arnav-HP| |T 0|14.100000| tag=<myvsclient> time=14.100000 dyn.ball.motor[1] = 1 
+dyn.ball.motor[1] = 1 
+|L  10|2025/02/13,18:28:10.254403|Arnav-HP| |T 0|14.100000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:10.356593|Arnav-HP| |T 0|14.200000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 116
+|L  10|2025/02/13,18:28:10.356832|Arnav-HP| |T 0|14.200000| tag=<myvsclient> time=14.200000 dyn.ball.motor[1] = 1 
+dyn.ball.motor[1] = 1 
+dyn.ball.motor[1] = 1 
+dyn.ball.motor[1] = 1 
+dyn.ball.motor[1] = 1 
+|L  10|2025/02/13,18:28:10.357272|Arnav-HP| |T 0|14.200000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:10.457990|Arnav-HP| |T 0|14.300000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 47
+|L  10|2025/02/13,18:28:10.458330|Arnav-HP| |T 0|14.300000| tag=<myvsclient> time=14.300000 dyn.ball.motor[1] = 1 
+dyn.ball.motor[1] = 0 
+|L  10|2025/02/13,18:28:10.458777|Arnav-HP| |T 0|14.300000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:10.559418|Arnav-HP| |T 0|14.400000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 24
+|L  10|2025/02/13,18:28:10.559664|Arnav-HP| |T 0|14.400000| tag=<myvsclient> time=14.400000 dyn.ball.motor[0] = 1 
+|L  10|2025/02/13,18:28:10.559987|Arnav-HP| |T 0|14.400000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:10.661891|Arnav-HP| |T 0|14.500000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:10.763461|Arnav-HP| |T 0|14.600000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:10.865587|Arnav-HP| |T 0|14.700000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:10.967623|Arnav-HP| |T 0|14.800000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 70
+|L  10|2025/02/13,18:28:10.967776|Arnav-HP| |T 0|14.800000| tag=<myvsclient> time=14.800000 dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+|L  10|2025/02/13,18:28:10.968002|Arnav-HP| |T 0|14.800000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:11.068821|Arnav-HP| |T 0|14.900000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 93
+|L  10|2025/02/13,18:28:11.069146|Arnav-HP| |T 0|14.900000| tag=<myvsclient> time=14.900000 dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+|L  10|2025/02/13,18:28:11.069682|Arnav-HP| |T 0|14.900000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:11.171747|Arnav-HP| |T 0|15.000000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 93
+|L  10|2025/02/13,18:28:11.172100|Arnav-HP| |T 0|15.000000| tag=<myvsclient> time=15.000000 dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+|L  10|2025/02/13,18:28:11.172802|Arnav-HP| |T 0|15.000000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:11.274674|Arnav-HP| |T 0|15.100000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 93
+|L  10|2025/02/13,18:28:11.275290|Arnav-HP| |T 0|15.100000| tag=<myvsclient> time=15.100000 dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+|L  10|2025/02/13,18:28:11.276603|Arnav-HP| |T 0|15.100000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:11.378107|Arnav-HP| |T 0|15.200000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 70
+|L  10|2025/02/13,18:28:11.378389|Arnav-HP| |T 0|15.200000| tag=<myvsclient> time=15.200000 dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+|L  10|2025/02/13,18:28:11.378723|Arnav-HP| |T 0|15.200000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:11.479318|Arnav-HP| |T 0|15.300000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 70
+|L  10|2025/02/13,18:28:11.480039|Arnav-HP| |T 0|15.300000| tag=<myvsclient> time=15.300000 dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+|L  10|2025/02/13,18:28:11.481150|Arnav-HP| |T 0|15.300000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:11.581964|Arnav-HP| |T 0|15.400000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 93
+|L  10|2025/02/13,18:28:11.582197|Arnav-HP| |T 0|15.400000| tag=<myvsclient> time=15.400000 dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+|L  10|2025/02/13,18:28:11.582550|Arnav-HP| |T 0|15.400000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:11.684239|Arnav-HP| |T 0|15.500000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 93
+|L  10|2025/02/13,18:28:11.684720|Arnav-HP| |T 0|15.500000| tag=<myvsclient> time=15.500000 dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+|L  10|2025/02/13,18:28:11.685119|Arnav-HP| |T 0|15.500000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:11.786911|Arnav-HP| |T 0|15.600000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 93
+|L  10|2025/02/13,18:28:11.787238|Arnav-HP| |T 0|15.600000| tag=<myvsclient> time=15.600000 dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+|L  10|2025/02/13,18:28:11.787599|Arnav-HP| |T 0|15.600000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:11.889531|Arnav-HP| |T 0|15.700000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 71
+|L  10|2025/02/13,18:28:11.889919|Arnav-HP| |T 0|15.700000| tag=<myvsclient> time=15.700000 dyn.ball.motor[0] = 1 
+dyn.ball.motor[1] = -1 
+dyn.ball.motor[0] = 0 
+|L  10|2025/02/13,18:28:11.890306|Arnav-HP| |T 0|15.700000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:11.992098|Arnav-HP| |T 0|15.800000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:12.092840|Arnav-HP| |T 0|15.900000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:12.193597|Arnav-HP| |T 0|16.000000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 25
+|L  10|2025/02/13,18:28:12.193880|Arnav-HP| |T 0|16.000000| tag=<myvsclient> time=16.000000 dyn.ball.motor[1] = -1 
+|L  10|2025/02/13,18:28:12.194447|Arnav-HP| |T 0|16.000000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:12.294920|Arnav-HP| |T 0|16.100000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 121
+|L  10|2025/02/13,18:28:12.295144|Arnav-HP| |T 0|16.100000| tag=<myvsclient> time=16.100000 dyn.ball.motor[1] = -1 
+dyn.ball.motor[1] = -1 
+dyn.ball.motor[1] = -1 
+dyn.ball.motor[1] = -1 
+dyn.ball.motor[1] = -1 
+|L  10|2025/02/13,18:28:12.295556|Arnav-HP| |T 0|16.100000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:12.396172|Arnav-HP| |T 0|16.200000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 97
+|L  10|2025/02/13,18:28:12.396809|Arnav-HP| |T 0|16.200000| tag=<myvsclient> time=16.200000 dyn.ball.motor[1] = -1 
+dyn.ball.motor[1] = -1 
+dyn.ball.motor[1] = -1 
+dyn.ball.motor[1] = -1 
+|L  10|2025/02/13,18:28:12.397590|Arnav-HP| |T 0|16.200000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:12.498599|Arnav-HP| |T 0|16.300000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 97
+|L  10|2025/02/13,18:28:12.498862|Arnav-HP| |T 0|16.300000| tag=<myvsclient> time=16.300000 dyn.ball.motor[1] = -1 
+dyn.ball.motor[1] = -1 
+dyn.ball.motor[1] = -1 
+dyn.ball.motor[1] = -1 
+|L  10|2025/02/13,18:28:12.499182|Arnav-HP| |T 0|16.300000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:12.600105|Arnav-HP| |T 0|16.400000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 97
+|L  10|2025/02/13,18:28:12.600425|Arnav-HP| |T 0|16.400000| tag=<myvsclient> time=16.400000 dyn.ball.motor[1] = -1 
+dyn.ball.motor[1] = -1 
+dyn.ball.motor[1] = -1 
+dyn.ball.motor[1] = -1 
+|L  10|2025/02/13,18:28:12.600981|Arnav-HP| |T 0|16.400000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:12.702020|Arnav-HP| |T 0|16.500000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 49
+|L  10|2025/02/13,18:28:12.702149|Arnav-HP| |T 0|16.500000| tag=<myvsclient> time=16.500000 dyn.ball.motor[1] = -1 
+dyn.ball.motor[1] = -1 
+|L  10|2025/02/13,18:28:12.702359|Arnav-HP| |T 0|16.500000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:12.803400|Arnav-HP| |T 0|16.600000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 96
+|L  10|2025/02/13,18:28:12.803683|Arnav-HP| |T 0|16.600000| tag=<myvsclient> time=16.600000 dyn.ball.motor[1] = -1 
+dyn.ball.motor[1] = -1 
+dyn.ball.motor[1] = -1 
+dyn.ball.motor[0] = 1 
+|L  10|2025/02/13,18:28:12.804125|Arnav-HP| |T 0|16.600000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:12.905540|Arnav-HP| |T 0|16.700000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:13.006786|Arnav-HP| |T 0|16.800000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:13.107632|Arnav-HP| |T 0|16.900000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:13.208093|Arnav-HP| |T 0|17.000000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 93
+|L  10|2025/02/13,18:28:13.208698|Arnav-HP| |T 0|17.000000| tag=<myvsclient> time=17.000000 dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+|L  10|2025/02/13,18:28:13.209809|Arnav-HP| |T 0|17.000000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:13.310688|Arnav-HP| |T 0|17.100000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 93
+|L  10|2025/02/13,18:28:13.311168|Arnav-HP| |T 0|17.100000| tag=<myvsclient> time=17.100000 dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+|L  10|2025/02/13,18:28:13.312005|Arnav-HP| |T 0|17.100000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:13.412674|Arnav-HP| |T 0|17.200000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 93
+|L  10|2025/02/13,18:28:13.412827|Arnav-HP| |T 0|17.200000| tag=<myvsclient> time=17.200000 dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+|L  10|2025/02/13,18:28:13.413073|Arnav-HP| |T 0|17.200000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:13.513409|Arnav-HP| |T 0|17.300000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 93
+|L  10|2025/02/13,18:28:13.513571|Arnav-HP| |T 0|17.300000| tag=<myvsclient> time=17.300000 dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+|L  10|2025/02/13,18:28:13.513831|Arnav-HP| |T 0|17.300000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:13.614418|Arnav-HP| |T 0|17.400000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 70
+|L  10|2025/02/13,18:28:13.614576|Arnav-HP| |T 0|17.400000| tag=<myvsclient> time=17.400000 dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+|L  10|2025/02/13,18:28:13.614808|Arnav-HP| |T 0|17.400000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:13.715770|Arnav-HP| |T 0|17.500000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 70
+|L  10|2025/02/13,18:28:13.715894|Arnav-HP| |T 0|17.500000| tag=<myvsclient> time=17.500000 dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+|L  10|2025/02/13,18:28:13.716158|Arnav-HP| |T 0|17.500000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:13.816771|Arnav-HP| |T 0|17.600000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 116
+|L  10|2025/02/13,18:28:13.816952|Arnav-HP| |T 0|17.600000| tag=<myvsclient> time=17.600000 dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[1] = 0 
+|L  10|2025/02/13,18:28:13.817252|Arnav-HP| |T 0|17.600000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:13.071524|Arnav-HP| |T 0|17.700000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 47
+|L  10|2025/02/13,18:28:13.071952|Arnav-HP| |T 0|17.700000| tag=<myvsclient> time=17.700000 dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 0 
+|L  10|2025/02/13,18:28:13.072366|Arnav-HP| |T 0|17.700000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:13.173121|Arnav-HP| |T 0|17.700000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 24
+|L  10|2025/02/13,18:28:13.173257|Arnav-HP| |T 0|17.700000| tag=<myvsclient> time=17.700000 dyn.ball.motor[1] = 1 
+|L  10|2025/02/13,18:28:13.173471|Arnav-HP| |T 0|17.700000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:13.274576|Arnav-HP| |T 0|17.700000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:13.375890|Arnav-HP| |T 0|17.700000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:13.476944|Arnav-HP| |T 0|17.700000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:13.577508|Arnav-HP| |T 0|17.700000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 47
+|L  10|2025/02/13,18:28:13.577831|Arnav-HP| |T 0|17.700000| tag=<myvsclient> time=17.700000 dyn.ball.motor[1] = 1 
+dyn.ball.motor[1] = 1 
+|L  10|2025/02/13,18:28:13.578352|Arnav-HP| |T 0|17.700000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:13.679328|Arnav-HP| |T 0|17.700000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 93
+|L  10|2025/02/13,18:28:13.679578|Arnav-HP| |T 0|17.700000| tag=<myvsclient> time=17.700000 dyn.ball.motor[1] = 1 
+dyn.ball.motor[1] = 1 
+dyn.ball.motor[1] = 1 
+dyn.ball.motor[1] = 1 
+|L  10|2025/02/13,18:28:13.679966|Arnav-HP| |T 0|17.700000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:13.781004|Arnav-HP| |T 0|17.700000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 93
+|L  10|2025/02/13,18:28:13.781835|Arnav-HP| |T 0|17.700000| tag=<myvsclient> time=17.700000 dyn.ball.motor[1] = 1 
+dyn.ball.motor[1] = 1 
+dyn.ball.motor[1] = 1 
+dyn.ball.motor[1] = 1 
+|L  10|2025/02/13,18:28:13.782273|Arnav-HP| |T 0|17.700000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:13.882461|Arnav-HP| |T 0|17.700000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 93
+|L  10|2025/02/13,18:28:13.882607|Arnav-HP| |T 0|17.700000| tag=<myvsclient> time=17.700000 dyn.ball.motor[1] = 1 
+dyn.ball.motor[1] = 1 
+dyn.ball.motor[1] = 1 
+dyn.ball.motor[1] = 1 
+|L  10|2025/02/13,18:28:13.882873|Arnav-HP| |T 0|17.700000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:13.983192|Arnav-HP| |T 0|17.800000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 93
+|L  10|2025/02/13,18:28:13.983310|Arnav-HP| |T 0|17.800000| tag=<myvsclient> time=17.800000 dyn.ball.motor[1] = 1 
+dyn.ball.motor[1] = 1 
+dyn.ball.motor[1] = 1 
+dyn.ball.motor[1] = 1 
+|L  10|2025/02/13,18:28:13.983537|Arnav-HP| |T 0|17.800000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:14.083788|Arnav-HP| |T 0|17.900000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 70
+|L  10|2025/02/13,18:28:14.083912|Arnav-HP| |T 0|17.900000| tag=<myvsclient> time=17.900000 dyn.ball.motor[1] = 1 
+dyn.ball.motor[1] = 1 
+dyn.ball.motor[1] = 1 
+|L  10|2025/02/13,18:28:14.084111|Arnav-HP| |T 0|17.900000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:14.184742|Arnav-HP| |T 0|18.000000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 70
+|L  10|2025/02/13,18:28:14.184982|Arnav-HP| |T 0|18.000000| tag=<myvsclient> time=18.000000 dyn.ball.motor[1] = 1 
+dyn.ball.motor[1] = 1 
+dyn.ball.motor[1] = 1 
+|L  10|2025/02/13,18:28:14.185379|Arnav-HP| |T 0|18.000000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:14.286255|Arnav-HP| |T 0|18.100000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 93
+|L  10|2025/02/13,18:28:14.286479|Arnav-HP| |T 0|18.100000| tag=<myvsclient> time=18.100000 dyn.ball.motor[1] = 1 
+dyn.ball.motor[1] = 1 
+dyn.ball.motor[1] = 1 
+dyn.ball.motor[1] = 1 
+|L  10|2025/02/13,18:28:14.286859|Arnav-HP| |T 0|18.100000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:14.387964|Arnav-HP| |T 0|18.200000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 93
+|L  10|2025/02/13,18:28:14.388200|Arnav-HP| |T 0|18.200000| tag=<myvsclient> time=18.200000 dyn.ball.motor[1] = 1 
+dyn.ball.motor[1] = 1 
+dyn.ball.motor[1] = 1 
+dyn.ball.motor[1] = 1 
+|L  10|2025/02/13,18:28:14.388746|Arnav-HP| |T 0|18.200000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:14.489466|Arnav-HP| |T 0|18.300000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 93
+|L  10|2025/02/13,18:28:14.489688|Arnav-HP| |T 0|18.300000| tag=<myvsclient> time=18.300000 dyn.ball.motor[1] = 1 
+dyn.ball.motor[1] = 1 
+dyn.ball.motor[1] = 1 
+dyn.ball.motor[1] = 1 
+|L  10|2025/02/13,18:28:14.490040|Arnav-HP| |T 0|18.300000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:14.590587|Arnav-HP| |T 0|18.400000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 93
+|L  10|2025/02/13,18:28:14.590725|Arnav-HP| |T 0|18.400000| tag=<myvsclient> time=18.400000 dyn.ball.motor[1] = 1 
+dyn.ball.motor[1] = 1 
+dyn.ball.motor[1] = 1 
+dyn.ball.motor[1] = 1 
+|L  10|2025/02/13,18:28:14.591723|Arnav-HP| |T 0|18.400000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:14.692474|Arnav-HP| |T 0|18.500000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 93
+|L  10|2025/02/13,18:28:14.692589|Arnav-HP| |T 0|18.500000| tag=<myvsclient> time=18.500000 dyn.ball.motor[1] = 1 
+dyn.ball.motor[1] = 1 
+dyn.ball.motor[1] = 1 
+dyn.ball.motor[1] = 1 
+|L  10|2025/02/13,18:28:14.692809|Arnav-HP| |T 0|18.500000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:14.794008|Arnav-HP| |T 0|18.600000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 93
+|L  10|2025/02/13,18:28:14.794214|Arnav-HP| |T 0|18.600000| tag=<myvsclient> time=18.600000 dyn.ball.motor[1] = 1 
+dyn.ball.motor[1] = 1 
+dyn.ball.motor[1] = 1 
+dyn.ball.motor[1] = 1 
+|L  10|2025/02/13,18:28:14.794554|Arnav-HP| |T 0|18.600000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:14.896325|Arnav-HP| |T 0|18.700000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 93
+|L  10|2025/02/13,18:28:14.896463|Arnav-HP| |T 0|18.700000| tag=<myvsclient> time=18.700000 dyn.ball.motor[1] = 1 
+dyn.ball.motor[1] = 1 
+dyn.ball.motor[1] = 1 
+dyn.ball.motor[1] = 1 
+|L  10|2025/02/13,18:28:14.896702|Arnav-HP| |T 0|18.700000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:14.997868|Arnav-HP| |T 0|18.800000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 93
+|L  10|2025/02/13,18:28:14.998129|Arnav-HP| |T 0|18.800000| tag=<myvsclient> time=18.800000 dyn.ball.motor[1] = 1 
+dyn.ball.motor[1] = 1 
+dyn.ball.motor[1] = 1 
+dyn.ball.motor[1] = 1 
+|L  10|2025/02/13,18:28:14.998587|Arnav-HP| |T 0|18.800000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:15.100648|Arnav-HP| |T 0|18.900000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 93
+|L  10|2025/02/13,18:28:15.101051|Arnav-HP| |T 0|18.900000| tag=<myvsclient> time=18.900000 dyn.ball.motor[1] = 1 
+dyn.ball.motor[1] = 1 
+dyn.ball.motor[1] = 1 
+dyn.ball.motor[1] = 1 
+|L  10|2025/02/13,18:28:15.101798|Arnav-HP| |T 0|18.900000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:15.204052|Arnav-HP| |T 0|19.000000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 93
+|L  10|2025/02/13,18:28:15.204300|Arnav-HP| |T 0|19.000000| tag=<myvsclient> time=19.000000 dyn.ball.motor[1] = 1 
+dyn.ball.motor[1] = 1 
+dyn.ball.motor[1] = 1 
+dyn.ball.motor[1] = 0 
+|L  10|2025/02/13,18:28:15.204713|Arnav-HP| |T 0|19.000000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:15.306788|Arnav-HP| |T 0|19.100000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 25
+|L  10|2025/02/13,18:28:15.307339|Arnav-HP| |T 0|19.100000| tag=<myvsclient> time=19.100000 dyn.ball.motor[1] = -1 
+|L  10|2025/02/13,18:28:15.308020|Arnav-HP| |T 0|19.100000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:15.410120|Arnav-HP| |T 0|19.200000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:15.512525|Arnav-HP| |T 0|19.300000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:15.614232|Arnav-HP| |T 0|19.400000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:15.716282|Arnav-HP| |T 0|19.500000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 97
+|L  10|2025/02/13,18:28:15.716656|Arnav-HP| |T 0|19.500000| tag=<myvsclient> time=19.500000 dyn.ball.motor[1] = -1 
+dyn.ball.motor[1] = -1 
+dyn.ball.motor[1] = -1 
+dyn.ball.motor[1] = -1 
+|L  10|2025/02/13,18:28:15.717291|Arnav-HP| |T 0|19.500000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:15.818553|Arnav-HP| |T 0|19.600000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 97
+|L  10|2025/02/13,18:28:15.818718|Arnav-HP| |T 0|19.600000| tag=<myvsclient> time=19.600000 dyn.ball.motor[1] = -1 
+dyn.ball.motor[1] = -1 
+dyn.ball.motor[1] = -1 
+dyn.ball.motor[1] = -1 
+|L  10|2025/02/13,18:28:15.818973|Arnav-HP| |T 0|19.600000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:15.920581|Arnav-HP| |T 0|19.700000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 97
+|L  10|2025/02/13,18:28:15.920722|Arnav-HP| |T 0|19.700000| tag=<myvsclient> time=19.700000 dyn.ball.motor[1] = -1 
+dyn.ball.motor[1] = -1 
+dyn.ball.motor[1] = -1 
+dyn.ball.motor[1] = -1 
+|L  10|2025/02/13,18:28:15.920971|Arnav-HP| |T 0|19.700000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:16.022099|Arnav-HP| |T 0|19.800000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 97
+|L  10|2025/02/13,18:28:16.022447|Arnav-HP| |T 0|19.800000| tag=<myvsclient> time=19.800000 dyn.ball.motor[1] = -1 
+dyn.ball.motor[1] = -1 
+dyn.ball.motor[1] = -1 
+dyn.ball.motor[1] = -1 
+|L  10|2025/02/13,18:28:16.022953|Arnav-HP| |T 0|19.800000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:16.124837|Arnav-HP| |T 0|19.900000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 97
+|L  10|2025/02/13,18:28:16.125118|Arnav-HP| |T 0|19.900000| tag=<myvsclient> time=19.900000 dyn.ball.motor[1] = -1 
+dyn.ball.motor[1] = -1 
+dyn.ball.motor[1] = -1 
+dyn.ball.motor[1] = -1 
+|L  10|2025/02/13,18:28:16.125601|Arnav-HP| |T 0|19.900000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:16.227298|Arnav-HP| |T 0|20.000000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 48
+|L  10|2025/02/13,18:28:16.227416|Arnav-HP| |T 0|20.000000| tag=<myvsclient> time=20.000000 dyn.ball.motor[1] = -1 
+dyn.ball.motor[1] = 0 
+|L  10|2025/02/13,18:28:16.227623|Arnav-HP| |T 0|20.000000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:16.329468|Arnav-HP| |T 0|20.200000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 24
+|L  10|2025/02/13,18:28:16.329712|Arnav-HP| |T 0|20.200000| tag=<myvsclient> time=20.200000 dyn.ball.motor[0] = 1 
+|L  10|2025/02/13,18:28:16.330008|Arnav-HP| |T 0|20.200000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:16.431831|Arnav-HP| |T 0|20.300000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:16.533964|Arnav-HP| |T 0|20.400000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:16.634825|Arnav-HP| |T 0|20.500000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:16.736680|Arnav-HP| |T 0|20.600000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 70
+|L  10|2025/02/13,18:28:16.736890|Arnav-HP| |T 0|20.600000| tag=<myvsclient> time=20.600000 dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+|L  10|2025/02/13,18:28:16.737100|Arnav-HP| |T 0|20.600000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:16.837715|Arnav-HP| |T 0|20.700000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 93
+|L  10|2025/02/13,18:28:16.838023|Arnav-HP| |T 0|20.700000| tag=<myvsclient> time=20.700000 dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+|L  10|2025/02/13,18:28:16.838456|Arnav-HP| |T 0|20.700000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:16.940189|Arnav-HP| |T 0|20.800000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 93
+|L  10|2025/02/13,18:28:16.940460|Arnav-HP| |T 0|20.800000| tag=<myvsclient> time=20.800000 dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+|L  10|2025/02/13,18:28:16.940863|Arnav-HP| |T 0|20.800000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:17.041693|Arnav-HP| |T 0|20.900000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 93
+|L  10|2025/02/13,18:28:17.041907|Arnav-HP| |T 0|20.900000| tag=<myvsclient> time=20.900000 dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+|L  10|2025/02/13,18:28:17.042301|Arnav-HP| |T 0|20.900000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:17.142956|Arnav-HP| |T 0|21.000000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 70
+|L  10|2025/02/13,18:28:17.143199|Arnav-HP| |T 0|21.000000| tag=<myvsclient> time=21.000000 dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 0 
+|L  10|2025/02/13,18:28:17.143626|Arnav-HP| |T 0|21.000000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:17.244019|Arnav-HP| |T 0|21.100000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:17.344799|Arnav-HP| |T 0|21.200000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 25
+|L  10|2025/02/13,18:28:17.344950|Arnav-HP| |T 0|21.200000| tag=<myvsclient> time=21.200000 dyn.ball.motor[0] = -1 
+|L  10|2025/02/13,18:28:17.345160|Arnav-HP| |T 0|21.200000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:17.448099|Arnav-HP| |T 0|21.300000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:17.550466|Arnav-HP| |T 0|21.400000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:17.652535|Arnav-HP| |T 0|21.500000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:17.753283|Arnav-HP| |T 0|21.600000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 97
+|L  10|2025/02/13,18:28:17.753751|Arnav-HP| |T 0|21.600000| tag=<myvsclient> time=21.600000 dyn.ball.motor[0] = -1 
+dyn.ball.motor[0] = -1 
+dyn.ball.motor[0] = -1 
+dyn.ball.motor[0] = -1 
+|L  10|2025/02/13,18:28:17.754235|Arnav-HP| |T 0|21.600000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:17.854706|Arnav-HP| |T 0|21.700000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 72
+|L  10|2025/02/13,18:28:17.854860|Arnav-HP| |T 0|21.700000| tag=<myvsclient> time=21.700000 dyn.ball.motor[0] = -1 
+dyn.ball.motor[0] = -1 
+dyn.ball.motor[0] = 0 
+|L  10|2025/02/13,18:28:17.855172|Arnav-HP| |T 0|21.700000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:17.956716|Arnav-HP| |T 0|21.800000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:18.058880|Arnav-HP| |T 0|21.900000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 24
+|L  10|2025/02/13,18:28:18.059148|Arnav-HP| |T 0|21.900000| tag=<myvsclient> time=21.900000 dyn.ball.motor[1] = 1 
+|L  10|2025/02/13,18:28:18.059497|Arnav-HP| |T 0|21.900000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:18.161478|Arnav-HP| |T 0|22.000000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:18.262926|Arnav-HP| |T 0|22.100000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:18.364078|Arnav-HP| |T 0|22.200000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:18.465858|Arnav-HP| |T 0|22.300000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 70
+|L  10|2025/02/13,18:28:18.466096|Arnav-HP| |T 0|22.300000| tag=<myvsclient> time=22.300000 dyn.ball.motor[1] = 1 
+dyn.ball.motor[1] = 1 
+dyn.ball.motor[1] = 1 
+|L  10|2025/02/13,18:28:18.466348|Arnav-HP| |T 0|22.300000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:18.568360|Arnav-HP| |T 0|22.400000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 47
+|L  10|2025/02/13,18:28:18.568789|Arnav-HP| |T 0|22.400000| tag=<myvsclient> time=22.400000 dyn.ball.motor[1] = 1 
+dyn.ball.motor[1] = 0 
+|L  10|2025/02/13,18:28:18.569458|Arnav-HP| |T 0|22.400000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:18.671631|Arnav-HP| |T 0|22.500000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 25
+|L  10|2025/02/13,18:28:18.672120|Arnav-HP| |T 0|22.500000| tag=<myvsclient> time=22.500000 dyn.ball.motor[1] = -1 
+|L  10|2025/02/13,18:28:18.672988|Arnav-HP| |T 0|22.500000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:18.774762|Arnav-HP| |T 0|22.600000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:18.875380|Arnav-HP| |T 0|22.700000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:18.977365|Arnav-HP| |T 0|22.800000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:19.079472|Arnav-HP| |T 0|22.900000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 25
+|L  10|2025/02/13,18:28:19.079729|Arnav-HP| |T 0|22.900000| tag=<myvsclient> time=22.900000 dyn.ball.motor[1] = -1 
+|L  10|2025/02/13,18:28:19.080092|Arnav-HP| |T 0|22.900000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:19.181930|Arnav-HP| |T 0|23.000000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 72
+|L  10|2025/02/13,18:28:19.182081|Arnav-HP| |T 0|23.000000| tag=<myvsclient> time=23.000000 dyn.ball.motor[1] = -1 
+dyn.ball.motor[1] = -1 
+dyn.ball.motor[1] = 0 
+|L  10|2025/02/13,18:28:19.182330|Arnav-HP| |T 0|23.000000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:19.283518|Arnav-HP| |T 0|23.100000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 24
+|L  10|2025/02/13,18:28:19.283897|Arnav-HP| |T 0|23.100000| tag=<myvsclient> time=23.100000 dyn.ball.motor[0] = 1 
+|L  10|2025/02/13,18:28:19.284136|Arnav-HP| |T 0|23.100000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:19.385713|Arnav-HP| |T 0|23.200000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:19.487875|Arnav-HP| |T 0|23.300000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:19.589921|Arnav-HP| |T 0|23.400000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:19.691940|Arnav-HP| |T 0|23.500000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 24
+|L  10|2025/02/13,18:28:19.692413|Arnav-HP| |T 0|23.500000| tag=<myvsclient> time=23.500000 dyn.ball.motor[0] = 0 
+|L  10|2025/02/13,18:28:19.692797|Arnav-HP| |T 0|23.500000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:19.793366|Arnav-HP| |T 0|23.600000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:19.894026|Arnav-HP| |T 0|23.700000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 24
+|L  10|2025/02/13,18:28:19.894288|Arnav-HP| |T 0|23.700000| tag=<myvsclient> time=23.700000 dyn.ball.motor[1] = 1 
+|L  10|2025/02/13,18:28:19.894568|Arnav-HP| |T 0|23.700000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:19.996148|Arnav-HP| |T 0|23.800000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:20.097221|Arnav-HP| |T 0|23.900000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:20.198096|Arnav-HP| |T 0|24.000000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 24
+|L  10|2025/02/13,18:28:20.198424|Arnav-HP| |T 0|24.000000| tag=<myvsclient> time=24.000000 dyn.ball.motor[1] = 0 
+|L  10|2025/02/13,18:28:20.198873|Arnav-HP| |T 0|24.000000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:20.299439|Arnav-HP| |T 0|24.100000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 25
+|L  10|2025/02/13,18:28:20.299799|Arnav-HP| |T 0|24.100000| tag=<myvsclient> time=24.100000 dyn.ball.motor[0] = -1 
+|L  10|2025/02/13,18:28:20.300315|Arnav-HP| |T 0|24.100000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:20.402298|Arnav-HP| |T 0|24.200000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:20.502852|Arnav-HP| |T 0|24.300000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 24
+|L  10|2025/02/13,18:28:20.503245|Arnav-HP| |T 0|24.300000| tag=<myvsclient> time=24.300000 dyn.ball.motor[0] = 0 
+|L  10|2025/02/13,18:28:20.503709|Arnav-HP| |T 0|24.300000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:20.605476|Arnav-HP| |T 0|24.400000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 25
+|L  10|2025/02/13,18:28:20.605686|Arnav-HP| |T 0|24.400000| tag=<myvsclient> time=24.400000 dyn.ball.motor[1] = -1 
+|L  10|2025/02/13,18:28:20.606093|Arnav-HP| |T 0|24.400000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:20.708329|Arnav-HP| |T 0|24.500000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:20.809360|Arnav-HP| |T 0|24.600000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 24
+|L  10|2025/02/13,18:28:20.809681|Arnav-HP| |T 0|24.600000| tag=<myvsclient> time=24.600000 dyn.ball.motor[1] = 0 
+|L  10|2025/02/13,18:28:20.810041|Arnav-HP| |T 0|24.600000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:20.910512|Arnav-HP| |T 0|24.700000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 24
+|L  10|2025/02/13,18:28:20.910640|Arnav-HP| |T 0|24.700000| tag=<myvsclient> time=24.700000 dyn.ball.motor[1] = 1 
+|L  10|2025/02/13,18:28:20.910849|Arnav-HP| |T 0|24.700000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:21.011688|Arnav-HP| |T 0|24.800000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:21.112555|Arnav-HP| |T 0|24.900000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 24
+|L  10|2025/02/13,18:28:21.112762|Arnav-HP| |T 0|24.900000| tag=<myvsclient> time=24.900000 dyn.ball.motor[1] = 0 
+|L  10|2025/02/13,18:28:21.113021|Arnav-HP| |T 0|24.900000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:21.213979|Arnav-HP| |T 0|25.000000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:21.314661|Arnav-HP| |T 0|25.100000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 25
+|L  10|2025/02/13,18:28:21.314933|Arnav-HP| |T 0|25.100000| tag=<myvsclient> time=25.100000 dyn.ball.motor[1] = -1 
+|L  10|2025/02/13,18:28:21.315241|Arnav-HP| |T 0|25.100000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:21.415945|Arnav-HP| |T 0|25.200000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:21.516509|Arnav-HP| |T 0|25.300000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 24
+|L  10|2025/02/13,18:28:21.516738|Arnav-HP| |T 0|25.300000| tag=<myvsclient> time=25.300000 dyn.ball.motor[1] = 0 
+|L  10|2025/02/13,18:28:21.517067|Arnav-HP| |T 0|25.300000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:21.617574|Arnav-HP| |T 0|25.400000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 24
+|L  10|2025/02/13,18:28:21.617709|Arnav-HP| |T 0|25.400000| tag=<myvsclient> time=25.400000 dyn.ball.motor[1] = 1 
+|L  10|2025/02/13,18:28:21.617905|Arnav-HP| |T 0|25.400000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:21.718755|Arnav-HP| |T 0|25.500000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:21.819638|Arnav-HP| |T 0|25.600000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 24
+|L  10|2025/02/13,18:28:21.820018|Arnav-HP| |T 0|25.600000| tag=<myvsclient> time=25.600000 dyn.ball.motor[1] = 0 
+|L  10|2025/02/13,18:28:21.820649|Arnav-HP| |T 0|25.600000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:21.922442|Arnav-HP| |T 0|25.700000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:22.023481|Arnav-HP| |T 0|25.800000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 25
+|L  10|2025/02/13,18:28:22.024393|Arnav-HP| |T 0|25.800000| tag=<myvsclient> time=25.800000 dyn.ball.motor[0] = -1 
+|L  10|2025/02/13,18:28:22.025131|Arnav-HP| |T 0|25.800000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:22.125853|Arnav-HP| |T 0|25.900000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 24
+|L  10|2025/02/13,18:28:22.126390|Arnav-HP| |T 0|25.900000| tag=<myvsclient> time=25.900000 dyn.ball.motor[0] = 0 
+|L  10|2025/02/13,18:28:22.126731|Arnav-HP| |T 0|25.900000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:22.228044|Arnav-HP| |T 0|26.000000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:22.328992|Arnav-HP| |T 0|26.100000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 25
+|L  10|2025/02/13,18:28:22.329209|Arnav-HP| |T 0|26.100000| tag=<myvsclient> time=26.100000 dyn.ball.motor[1] = -1 
+|L  10|2025/02/13,18:28:22.329485|Arnav-HP| |T 0|26.100000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:22.430643|Arnav-HP| |T 0|26.200000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 24
+|L  10|2025/02/13,18:28:22.430977|Arnav-HP| |T 0|26.300000| tag=<myvsclient> time=26.300000 dyn.ball.motor[1] = 0 
+|L  10|2025/02/13,18:28:22.431431|Arnav-HP| |T 0|26.300000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:22.532372|Arnav-HP| |T 0|26.400000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 24
+|L  10|2025/02/13,18:28:22.532490|Arnav-HP| |T 0|26.400000| tag=<myvsclient> time=26.400000 dyn.ball.motor[0] = 1 
+|L  10|2025/02/13,18:28:22.532722|Arnav-HP| |T 0|26.400000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:22.633347|Arnav-HP| |T 0|26.500000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 47
+|L  10|2025/02/13,18:28:22.633553|Arnav-HP| |T 0|26.500000| tag=<myvsclient> time=26.500000 dyn.ball.motor[0] = 0 
+dyn.ball.motor[1] = 1 
+|L  10|2025/02/13,18:28:22.633756|Arnav-HP| |T 0|26.500000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:22.735160|Arnav-HP| |T 0|26.600000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 24
+|L  10|2025/02/13,18:28:22.735545|Arnav-HP| |T 0|26.600000| tag=<myvsclient> time=26.600000 dyn.ball.motor[1] = 0 
+|L  10|2025/02/13,18:28:22.735988|Arnav-HP| |T 0|26.600000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:22.836579|Arnav-HP| |T 0|26.700000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 25
+|L  10|2025/02/13,18:28:22.836720|Arnav-HP| |T 0|26.700000| tag=<myvsclient> time=26.700000 dyn.ball.motor[0] = -1 
+|L  10|2025/02/13,18:28:22.836927|Arnav-HP| |T 0|26.700000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:22.937276|Arnav-HP| |T 0|26.800000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 24
+|L  10|2025/02/13,18:28:22.937469|Arnav-HP| |T 0|26.800000| tag=<myvsclient> time=26.800000 dyn.ball.motor[0] = 0 
+|L  10|2025/02/13,18:28:22.937694|Arnav-HP| |T 0|26.800000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:23.038382|Arnav-HP| |T 0|26.900000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 25
+|L  10|2025/02/13,18:28:23.038722|Arnav-HP| |T 0|26.900000| tag=<myvsclient> time=26.900000 dyn.ball.motor[1] = -1 
+|L  10|2025/02/13,18:28:23.039803|Arnav-HP| |T 0|26.900000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:23.141809|Arnav-HP| |T 0|27.000000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 24
+|L  10|2025/02/13,18:28:23.142163|Arnav-HP| |T 0|27.000000| tag=<myvsclient> time=27.000000 dyn.ball.motor[1] = 0 
+|L  10|2025/02/13,18:28:23.142630|Arnav-HP| |T 0|27.000000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:23.244466|Arnav-HP| |T 0|27.100000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 24
+|L  10|2025/02/13,18:28:23.244593|Arnav-HP| |T 0|27.100000| tag=<myvsclient> time=27.100000 dyn.ball.motor[0] = 1 
+|L  10|2025/02/13,18:28:23.244789|Arnav-HP| |T 0|27.100000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:23.345047|Arnav-HP| |T 0|27.200000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 47
+|L  10|2025/02/13,18:28:23.345327|Arnav-HP| |T 0|27.200000| tag=<myvsclient> time=27.200000 dyn.ball.motor[0] = 0 
+dyn.ball.motor[1] = 1 
+|L  10|2025/02/13,18:28:23.345824|Arnav-HP| |T 0|27.200000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:23.446974|Arnav-HP| |T 0|27.300000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 24
+|L  10|2025/02/13,18:28:23.447167|Arnav-HP| |T 0|27.300000| tag=<myvsclient> time=27.300000 dyn.ball.motor[1] = 0 
+|L  10|2025/02/13,18:28:23.447409|Arnav-HP| |T 0|27.300000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:23.549011|Arnav-HP| |T 0|27.400000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 25
+|L  10|2025/02/13,18:28:23.549317|Arnav-HP| |T 0|27.400000| tag=<myvsclient> time=27.400000 dyn.ball.motor[0] = -1 
+|L  10|2025/02/13,18:28:23.549599|Arnav-HP| |T 0|27.400000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:23.651516|Arnav-HP| |T 0|27.500000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 24
+|L  10|2025/02/13,18:28:23.651680|Arnav-HP| |T 0|27.500000| tag=<myvsclient> time=27.500000 dyn.ball.motor[0] = 0 
+|L  10|2025/02/13,18:28:23.651879|Arnav-HP| |T 0|27.500000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:23.753932|Arnav-HP| |T 0|27.600000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:23.854602|Arnav-HP| |T 0|27.700000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 47
+|L  10|2025/02/13,18:28:23.854857|Arnav-HP| |T 0|27.700000| tag=<myvsclient> time=27.700000 dyn.ball.motor[1] = 1 
+dyn.ball.motor[1] = 0 
+|L  10|2025/02/13,18:28:23.855218|Arnav-HP| |T 0|27.700000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:23.957186|Arnav-HP| |T 0|27.800000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 24
+|L  10|2025/02/13,18:28:23.957557|Arnav-HP| |T 0|27.800000| tag=<myvsclient> time=27.800000 dyn.ball.motor[0] = 1 
+|L  10|2025/02/13,18:28:23.957865|Arnav-HP| |T 0|27.800000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:24.058571|Arnav-HP| |T 0|27.900000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 48
+|L  10|2025/02/13,18:28:24.058937|Arnav-HP| |T 0|27.900000| tag=<myvsclient> time=27.900000 dyn.ball.motor[0] = 0 
+dyn.ball.motor[0] = -1 
+|L  10|2025/02/13,18:28:24.059536|Arnav-HP| |T 0|27.900000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:24.161649|Arnav-HP| |T 0|28.000000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 24
+|L  10|2025/02/13,18:28:24.161959|Arnav-HP| |T 0|28.000000| tag=<myvsclient> time=28.000000 dyn.ball.motor[0] = 0 
+|L  10|2025/02/13,18:28:24.162398|Arnav-HP| |T 0|28.000000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:24.262957|Arnav-HP| |T 0|28.100000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 47
+|L  10|2025/02/13,18:28:24.263437|Arnav-HP| |T 0|28.100000| tag=<myvsclient> time=28.100000 dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 0 
+|L  10|2025/02/13,18:28:24.263853|Arnav-HP| |T 0|28.100000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:24.365775|Arnav-HP| |T 0|28.200000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 48
+|L  10|2025/02/13,18:28:24.366040|Arnav-HP| |T 0|28.200000| tag=<myvsclient> time=28.200000 dyn.ball.motor[0] = -1 
+dyn.ball.motor[0] = 0 
+|L  10|2025/02/13,18:28:24.366456|Arnav-HP| |T 0|28.200000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:24.467368|Arnav-HP| |T 0|28.300000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 71
+|L  10|2025/02/13,18:28:24.467608|Arnav-HP| |T 0|28.300000| tag=<myvsclient> time=28.300000 dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 0 
+dyn.ball.motor[0] = -1 
+|L  10|2025/02/13,18:28:24.467968|Arnav-HP| |T 0|28.300000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:24.568664|Arnav-HP| |T 0|28.400000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 24
+|L  10|2025/02/13,18:28:24.568838|Arnav-HP| |T 0|28.400000| tag=<myvsclient> time=28.400000 dyn.ball.motor[0] = 0 
+|L  10|2025/02/13,18:28:24.569075|Arnav-HP| |T 0|28.400000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:24.670310|Arnav-HP| |T 0|28.500000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 48
+|L  10|2025/02/13,18:28:24.670555|Arnav-HP| |T 0|28.500000| tag=<myvsclient> time=28.500000 dyn.ball.motor[0] = -1 
+dyn.ball.motor[0] = 1 
+|L  10|2025/02/13,18:28:24.670963|Arnav-HP| |T 0|28.500000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:24.771706|Arnav-HP| |T 0|28.600000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:24.874142|Arnav-HP| |T 0|28.700000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:24.976191|Arnav-HP| |T 0|28.800000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:25.076648|Arnav-HP| |T 0|28.900000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 70
+|L  10|2025/02/13,18:28:25.076795|Arnav-HP| |T 0|28.900000| tag=<myvsclient> time=28.900000 dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+|L  10|2025/02/13,18:28:25.077020|Arnav-HP| |T 0|28.900000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:25.178440|Arnav-HP| |T 0|29.000000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 93
+|L  10|2025/02/13,18:28:25.178567|Arnav-HP| |T 0|29.000000| tag=<myvsclient> time=29.000000 dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+|L  10|2025/02/13,18:28:25.178754|Arnav-HP| |T 0|29.000000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:25.279525|Arnav-HP| |T 0|29.100000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 93
+|L  10|2025/02/13,18:28:25.279775|Arnav-HP| |T 0|29.100000| tag=<myvsclient> time=29.100000 dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+|L  10|2025/02/13,18:28:25.280328|Arnav-HP| |T 0|29.100000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:25.381689|Arnav-HP| |T 0|29.200000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 93
+|L  10|2025/02/13,18:28:25.381974|Arnav-HP| |T 0|29.200000| tag=<myvsclient> time=29.200000 dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[1] = 1 
+|L  10|2025/02/13,18:28:25.382468|Arnav-HP| |T 0|29.200000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:25.483973|Arnav-HP| |T 0|29.300000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:25.586179|Arnav-HP| |T 0|29.400000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:25.688057|Arnav-HP| |T 0|29.500000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:25.789240|Arnav-HP| |T 0|29.600000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 24
+|L  10|2025/02/13,18:28:25.789491|Arnav-HP| |T 0|29.600000| tag=<myvsclient> time=29.600000 dyn.ball.motor[1] = 1 
+|L  10|2025/02/13,18:28:25.789944|Arnav-HP| |T 0|29.600000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:25.891394|Arnav-HP| |T 0|29.700000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 93
+|L  10|2025/02/13,18:28:25.891629|Arnav-HP| |T 0|29.700000| tag=<myvsclient> time=29.700000 dyn.ball.motor[1] = 1 
+dyn.ball.motor[1] = 1 
+dyn.ball.motor[1] = 1 
+dyn.ball.motor[1] = 1 
+|L  10|2025/02/13,18:28:25.892254|Arnav-HP| |T 0|29.700000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:25.993788|Arnav-HP| |T 0|29.800000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 116
+|L  10|2025/02/13,18:28:25.993906|Arnav-HP| |T 0|29.800000| tag=<myvsclient> time=29.800000 dyn.ball.motor[1] = 1 
+dyn.ball.motor[1] = 1 
+dyn.ball.motor[1] = 1 
+dyn.ball.motor[1] = 1 
+dyn.ball.motor[1] = 1 
+|L  10|2025/02/13,18:28:25.994144|Arnav-HP| |T 0|29.800000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:26.095810|Arnav-HP| |T 0|29.900000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 93
+|L  10|2025/02/13,18:28:26.095989|Arnav-HP| |T 0|29.900000| tag=<myvsclient> time=29.900000 dyn.ball.motor[1] = 1 
+dyn.ball.motor[1] = 1 
+dyn.ball.motor[1] = 1 
+dyn.ball.motor[1] = 1 
+|L  10|2025/02/13,18:28:26.096304|Arnav-HP| |T 0|29.900000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:26.198251|Arnav-HP| |T 0|30.000000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 70
+|L  10|2025/02/13,18:28:26.198450|Arnav-HP| |T 0|30.000000| tag=<myvsclient> time=30.000000 dyn.ball.motor[1] = 1 
+dyn.ball.motor[1] = 1 
+dyn.ball.motor[1] = 1 
+|L  10|2025/02/13,18:28:26.198786|Arnav-HP| |T 0|30.000000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:26.299345|Arnav-HP| |T 0|30.100000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 93
+|L  10|2025/02/13,18:28:26.299501|Arnav-HP| |T 0|30.100000| tag=<myvsclient> time=30.100000 dyn.ball.motor[1] = 1 
+dyn.ball.motor[1] = 1 
+dyn.ball.motor[1] = 1 
+dyn.ball.motor[1] = 1 
+|L  10|2025/02/13,18:28:26.299758|Arnav-HP| |T 0|30.100000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:26.401873|Arnav-HP| |T 0|30.200000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 93
+|L  10|2025/02/13,18:28:26.402389|Arnav-HP| |T 0|30.200000| tag=<myvsclient> time=30.200000 dyn.ball.motor[1] = 1 
+dyn.ball.motor[0] = 0 
+dyn.ball.motor[0] = 0 
+dyn.ball.motor[1] = 0 
+|L  10|2025/02/13,18:28:26.403131|Arnav-HP| |T 0|30.200000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:26.504566|Arnav-HP| |T 0|30.300000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:26.605552|Arnav-HP| |T 0|30.400000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:26.707694|Arnav-HP| |T 0|30.500000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:26.808780|Arnav-HP| |T 0|30.600000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 24
+|L  10|2025/02/13,18:28:26.809229|Arnav-HP| |T 0|30.600000| tag=<myvsclient> time=30.600000 dyn.ball.motor[0] = 1 
+|L  10|2025/02/13,18:28:26.809542|Arnav-HP| |T 0|30.600000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:26.911515|Arnav-HP| |T 0|30.700000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:27.014036|Arnav-HP| |T 0|30.800000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:27.114794|Arnav-HP| |T 0|30.900000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:27.216550|Arnav-HP| |T 0|31.000000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 93
+|L  10|2025/02/13,18:28:27.216680|Arnav-HP| |T 0|31.000000| tag=<myvsclient> time=31.000000 dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+|L  10|2025/02/13,18:28:27.216904|Arnav-HP| |T 0|31.000000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:27.317473|Arnav-HP| |T 0|31.100000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 70
+|L  10|2025/02/13,18:28:27.317640|Arnav-HP| |T 0|31.100000| tag=<myvsclient> time=31.100000 dyn.ball.motor[0] = 1 
+dyn.ball.motor[0] = 1 
+dyn.ball.motor[1] = 1 
+|L  10|2025/02/13,18:28:27.317852|Arnav-HP| |T 0|31.100000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:27.420113|Arnav-HP| |T 0|31.200000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:27.522845|Arnav-HP| |T 0|31.300000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:27.624176|Arnav-HP| |T 0|31.400000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:27.725846|Arnav-HP| |T 0|31.600000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 47
+|L  10|2025/02/13,18:28:27.725968|Arnav-HP| |T 0|31.600000| tag=<myvsclient> time=31.600000 dyn.ball.motor[1] = 1 
+dyn.ball.motor[1] = 1 
+|L  10|2025/02/13,18:28:27.726149|Arnav-HP| |T 0|31.600000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:27.826732|Arnav-HP| |T 0|31.700000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 93
+|L  10|2025/02/13,18:28:27.826917|Arnav-HP| |T 0|31.700000| tag=<myvsclient> time=31.700000 dyn.ball.motor[1] = 1 
+dyn.ball.motor[1] = 1 
+dyn.ball.motor[1] = 1 
+dyn.ball.motor[1] = 1 
+|L  10|2025/02/13,18:28:27.827232|Arnav-HP| |T 0|31.700000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:27.928408|Arnav-HP| |T 0|31.800000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 93
+|L  10|2025/02/13,18:28:27.928617|Arnav-HP| |T 0|31.800000| tag=<myvsclient> time=31.800000 dyn.ball.motor[1] = 1 
+dyn.ball.motor[1] = 1 
+dyn.ball.motor[1] = 1 
+dyn.ball.motor[1] = 1 
+|L  10|2025/02/13,18:28:27.929086|Arnav-HP| |T 0|31.800000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:28.030787|Arnav-HP| |T 0|31.900000| 0x7f29d00015d0 tag=<myvsclient> var_server received bytes = msg_len = 70
+|L  10|2025/02/13,18:28:28.030900|Arnav-HP| |T 0|31.900000| tag=<myvsclient> time=31.900000 dyn.ball.motor[1] = 1 
+dyn.ball.motor[1] = 0 
+dyn.ball.motor[0] = 0 
+|L  10|2025/02/13,18:28:28.031106|Arnav-HP| |T 0|31.900000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:28.132906|Arnav-HP| |T 0|32.000000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:28.233388|Arnav-HP| |T 0|32.100000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:28.334638|Arnav-HP| |T 0|32.200000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:28.435782|Arnav-HP| |T 0|32.300000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:28.538362|Arnav-HP| |T 0|32.400000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:28.640501|Arnav-HP| |T 0|32.500000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:28.741296|Arnav-HP| |T 0|32.600000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:28.842127|Arnav-HP| |T 0|32.700000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:28.943163|Arnav-HP| |T 0|32.800000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:29.044046|Arnav-HP| |T 0|32.900000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:29.144673|Arnav-HP| |T 0|33.000000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:29.246330|Arnav-HP| |T 0|33.100000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:29.347936|Arnav-HP| |T 0|33.200000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:29.448692|Arnav-HP| |T 0|33.300000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:29.550726|Arnav-HP| |T 0|33.400000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:29.651563|Arnav-HP| |T 0|33.500000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:29.753799|Arnav-HP| |T 0|33.600000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:29.854178|Arnav-HP| |T 0|33.700000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:29.955898|Arnav-HP| |T 0|33.800000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:30.056789|Arnav-HP| |T 0|33.900000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:30.157750|Arnav-HP| |T 0|34.000000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:30.259531|Arnav-HP| |T 0|34.100000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:30.360358|Arnav-HP| |T 0|34.200000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:30.463021|Arnav-HP| |T 0|34.300000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:30.564044|Arnav-HP| |T 0|34.400000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:30.664619|Arnav-HP| |T 0|34.500000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:30.765631|Arnav-HP| |T 0|34.600000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:30.866299|Arnav-HP| |T 0|34.700000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L  10|2025/02/13,18:28:30.967392|Arnav-HP| |T 0|34.800000| 0x7f29d00015d0 tag=<myvsclient> var_server sending 32 ascii bytes:
+0	0	0	5	BAD_REF	BAD_REF	BAD_REF
+
+|L   1|2025/02/13,18:28:35.625476|Arnav-HP| |T 0|39.400000| Freeze ON. Simulation time holding at 39.400000 seconds.
+|L   0|2025/02/13,18:28:38.670419|Arnav-HP| |T 0|39.400000| 
+     REALTIME SHUTDOWN STATS:
+     REALTIME TOTAL OVERRUNS:            0
+            ACTUAL INIT TIME:        0.172
+         ACTUAL ELAPSED TIME:       48.617
+|L   0|2025/02/13,18:28:38.956474|Arnav-HP| |T 0|39.400000| 
+SIMULATION TERMINATED IN
+  PROCESS: 0
+  ROUTINE: Executive_freeze_loop.cpp:85
+  DIAGNOSTIC: Sim control Shutdown
+
+              SIMULATION START TIME:        0.000
+               SIMULATION STOP TIME:       39.400
+            SIMULATION ELAPSED TIME:       39.400
+                 USER CPU TIME USED:        0.535
+               SYSTEM CPU TIME USED:        0.293
+              SIMULATION / CPU TIME:       47.589
+       INITIALIZATION USER CPU TIME:        0.142
+     INITIALIZATION SYSTEM CPU TIME:        0.030
+               SIMULATION RAM USAGE:       61.520MB
+      (External program RAM usage not included!)
+  VOLUNTARY CONTEXT SWITCHES (INIT):           10
+INVOLUNTARY CONTEXT SWITCHES (INIT):            0
+   VOLUNTARY CONTEXT SWITCHES (RUN):        15260
+ INVOLUNTARY CONTEXT SWITCHES (RUN):            1
+

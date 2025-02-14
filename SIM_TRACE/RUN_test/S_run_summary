@@ -1,0 +1,51 @@
+
+===============================================================================
+General:
+
+Executable called = /home/arnavjoshi/trick_sims/SIM_TRACE/S_main_Linux_11.4_x86_64.exe
+Input file = RUN_test/input.py
+S_main build time = Thu Feb 13 17:37:24 2025
+Trick version = 19.8.0-beta
+
+===============================================================================
+Build time Environment:
+
+TRICK_CC = /usr/bin/gcc
+TRICK_CFLAGS = -Imodels
+TRICK_CONVERT_SWIG_FLAGS = 
+TRICK_CPFLAGS = 
+TRICK_CXX = /usr/bin/g++
+TRICK_CXXFLAGS = -Imodels
+TRICK_DEBUG = 0
+TRICK_EDITOR = 
+TRICK_EXEC_LINK_LIBS =  -L/usr/lib/python3.10/config-3.10-x86_64-linux-gnu -L/usr/lib/x86_64-linux-gnu -lpython3.10 -lcrypt -ldl  -lm -lm  -lpython3.10 -lcrypt -ldl  -lm -lm    -ludunits2 -lrt -lm -ldl
+TRICK_EXT_LIB_DIRS = 
+TRICK_FORCE_32BIT = OFF
+TRICK_GTE_EXT = 
+TRICK_HOME = /home/arnavjoshi/trick
+TRICK_HOST_CPU = Linux_11.4_x86_64
+TRICK_HOST_CPU_USER_SUFFIX = 
+TRICK_HOST_TYPE = Linux
+TRICK_ICGFLAGS = 
+TRICK_ICG_COMPAT15 = 
+TRICK_ICG_EXCLUDE = 
+TRICK_ICG_IGNORE_TYPES = 
+TRICK_ICG_NOCOMMENT = 
+TRICK_LDFLAGS = 
+TRICK_MAKE = 
+TRICK_PATH = /home/arnavjoshi/trick/libexec/bin
+TRICK_PRINTER_NAME = 
+TRICK_PRINT_CMD = lpr
+TRICK_PYTHON_PATH = 
+TRICK_SFLAGS = 
+TRICK_SWIG_EXCLUDE = 
+TRICK_SYSTEM_CFLAGS = -isystem/home/arnavjoshi/trick/trick_source -isystem/home/arnavjoshi/trick/include -isystem/home/arnavjoshi/trick/include/trick/compat -DTRICK_VER=19 -DTRICK_MINOR=8 -fpic  -DUSE_ER7_UTILS_INTEGRATORS -fexceptions
+TRICK_SYSTEM_CXXFLAGS = -isystem/home/arnavjoshi/trick/trick_source -isystem/home/arnavjoshi/trick/include -isystem/home/arnavjoshi/trick/include/trick/compat -DTRICK_VER=19 -DTRICK_MINOR=8 -fpic  -DUSE_ER7_UTILS_INTEGRATORS
+TRICK_SYSTEM_LDFLAGS = -Wl,--export-dynamic
+TRICK_USER_CSHRC = /home/arnavjoshi/.Trick_user_cshrc
+TRICK_USER_HOME = /home/arnavjoshi/trick_sims
+TRICK_USER_LINK_LIBS = 
+TRICK_USER_PROFILE = /home/arnavjoshi/.Trick_user_profile
+TRICK_VER = trick_dev
+XML_CATALOG_FILES = /home/arnavjoshi/trick/libexec/trick_source/data_products/DPX/XML/catalog.xml
+

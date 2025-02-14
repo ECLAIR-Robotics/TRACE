@@ -1,0 +1,6 @@
+log_my_robot byte_order is little_endian
+log_my_robot	double	     s	sys.exec.out.time
+log_my_robot	double	     m	dyn.ball.pos[0]
+log_my_robot	double	     m	dyn.ball.pos[1]
+log_my_robot	double	   m/s	dyn.ball.vel[0]
+log_my_robot	double	   m/s	dyn.ball.vel[1]
