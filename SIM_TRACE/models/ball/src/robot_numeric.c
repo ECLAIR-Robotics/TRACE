@@ -45,5 +45,6 @@ int robot_integ(BALL* B){
         &B->acc[1],
         NULL
     );
+    puts("runinteg");
     return (ipass);
 }

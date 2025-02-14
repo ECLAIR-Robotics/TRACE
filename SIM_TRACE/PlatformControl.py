@@ -78,9 +78,10 @@ client_socket.send( b"trick.var_ascii()\n" )
 client_socket.send( b"trick.var_add(\"dyn.ball.pos[0]\") \n" +
                     b"trick.var_add(\"dyn.ball.pos[1]\") \n" +
                     b"trick.var_add(\"trick_sys.sched.mode\")\n" +
-                    b"trick.var_add(\"dyn.ball.accel[0]\") \n" +
-                    b"trick.var_add(\"dyn.ball.accel[1]\") \n" +
-                    b"trick.var_add(\"dyn.ball.ang\") \n")
+                    b"trick.var_add(\"dyn.ball.tiltrate[0]\") \n" +
+                    b"trick.var_add(\"dyn.ball.tiltrate[1]\") \n" +
+                    b"trick.var_add(\"dyn.ball.acc[0]\") \n" +
+                    b"trick.var_add(\"dyn.ball.acc[1]\") \n")
 client_socket.send( b"trick.var_unpause()\n" )
 
 

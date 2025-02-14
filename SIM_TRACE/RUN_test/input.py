@@ -5,7 +5,7 @@ exec(open("Modified_data/ball.dr").read())
 # Start the variable server client.
 #==================================
 varServerPort = trick.var_server_get_port();
-RobotDisplay_path = os.environ['HOME'] + "/trick_sims/SIM_TRACE/PlatformControl.py"
+RobotDisplay_path = os.environ['HOME'] + "/trick_sims/TRACE/SIM_TRACE/PlatformControl.py"
 if (os.path.isfile(RobotDisplay_path)) :
     RobotDisplay_cmd = RobotDisplay_path + " " + str(varServerPort) + " &" ;
     print(RobotDisplay_cmd)

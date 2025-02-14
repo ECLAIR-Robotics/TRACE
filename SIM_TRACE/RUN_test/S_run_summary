@@ -2,9 +2,9 @@
 ===============================================================================
 General:
 
-Executable called = /home/arnavjoshi/trick_sims/SIM_TRACE/S_main_Linux_11.4_x86_64.exe
+Executable called = /home/arnavjoshi/trick_sims/TRACE/SIM_TRACE/S_main_Linux_11.4_x86_64.exe
 Input file = RUN_test/input.py
-S_main build time = Thu Feb 13 17:37:24 2025
+S_main build time = Thu Feb 13 18:55:38 2025
 Trick version = 19.8.0-beta
 
 ===============================================================================
