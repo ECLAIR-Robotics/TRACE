@@ -1,0 +1,28 @@
+/****************************************************************
+PURPOSE: (S_define file for SIM_TRACE)
+LIBRARY_DEPENDENCY: ((ball/src/robot_init.c)
+                     (ball/src/robot_numeric.c)
+                     (ball/src/robot_shutdown.c))
+****************************************************************/
+#include "sim_objects/default_trick_sys.sm"
+##include "ball/include/ball_numeric.h"
+// ##include "ball/include/ball.h"
+
+
+class TRACESimObject : public Trick::SimObject {
+    public:
+    BALL ball ;
+    TRACESimObject() {
+        ("initialization") robot_init( &ball ) ;
+        ("default_data") robot_default_data( &ball ) ;
+        ("derivative") robot_deriv( &ball ) ;
+        ("integration") trick_ret = robot_integ( &ball ) ;
+        ("shutdown") robot_shutdown( &ball ) ;
+    }
+};
+
+TRACESimObject dyn ;
+IntegLoop dyn_integloop (0.01) dyn ;
+void create_connections() {
+    dyn_integloop.getIntegrator(Runge_Kutta_4, 4);
+}
