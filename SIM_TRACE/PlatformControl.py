@@ -17,7 +17,7 @@ else :
 # 2.0 Set client Parameters.
 HEIGHT, WIDTH = 800, 1000   # Canvas Dimensions
 MARGIN = 20                # Margins around the axes
-SCALE = 3                  # Scale = 3 pixels per meter
+SCALE = 50                  # Scale = 50 pixels per meter
 ballRadius = 15             # Ball radius in pixels
 
 # ----------------------------------------------------------------------

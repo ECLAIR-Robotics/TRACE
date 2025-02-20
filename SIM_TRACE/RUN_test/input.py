@@ -7,8 +7,8 @@ exec(open("Modified_data/ball.dr").read())
 varServerPort = trick.var_server_get_port();
 RobotDisplay_path = os.environ['HOME'] + "/trick_sims/TRACE/SIM_TRACE/PlatformControl.py"
 if (os.path.isfile(RobotDisplay_path)) :
-    RobotDisplay_cmd = RobotDisplay_path + " " + str(varServerPort) + " &" ;
+    RobotDisplay_cmd = RobotDisplay_path + " " + str(varServerPort) + " &" 
     print(RobotDisplay_cmd)
-    os.system(RobotDisplay_cmd);
+    os.system(RobotDisplay_cmd)
 else :
     print('Oops! Can\'t find ' + RobotDisplay_path )
