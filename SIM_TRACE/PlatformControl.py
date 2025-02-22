@@ -54,7 +54,8 @@ xAxis = canvas.create_line(MARGIN,HEIGHT-MARGIN,WIDTH,HEIGHT-MARGIN)
 yAxis = canvas.create_line(MARGIN,HEIGHT-MARGIN,MARGIN,0)
 
 # 5.6 Create an oval object to represent the robotball.
-robotBall = canvas.create_rectangle(0,0,ballRadius,ballRadius, fill="orange")
+#robotBall = canvas.create_rectangle(0,0,ballRadius,ballRadius, fill="orange")
+robotBall = canvas.create_oval(0,0,ballRadius, ballRadius, fill="orange")
 
 # 5.7 Create a text field on the canvas for the simulation mode display.
 modeText = canvas.create_text(WIDTH/2, 20, text="--unknown-mode--")
