@@ -24,7 +24,7 @@ int robot_default_data( BALL* B ) {
 }
 
 /* initialization job */
-int cannon_init(BALL* B) {
+int robot_init(BALL* B) {
 
     B->vel[0] = B->vel0[0] ; 
     B->vel[1] = B->vel0[1] ; 

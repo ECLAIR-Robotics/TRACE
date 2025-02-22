@@ -21,16 +21,16 @@ int robot_integ(BALL* B){
         &B->pos[1],
         &B->vel[0],
         &B->vel[1],
-        &B->accel[0],
-        &B->accel[1],
+        &B->acc[0],
+        &B->acc[1],
         NULL
     );
 
     load_deriv(
         &B->vel[0],
         &B->vel[1],
-        &B->accel[0],
-        &B->accel[1],
+        &B->acc[0],
+        &B->acc[1],
         &B->tiltrate[0],
         &B->tiltrate[1],
         NULL
@@ -41,8 +41,8 @@ int robot_integ(BALL* B){
         &B->pos[1],
         &B->vel[0],
         &B->vel[1],
-        &B->accel[0],
-        &B->accel[1],
+        &B->acc[0],
+        &B->acc[1],
         NULL
     );
     return (ipass);

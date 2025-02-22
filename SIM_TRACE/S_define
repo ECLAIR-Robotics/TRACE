@@ -1,8 +1,8 @@
 /****************************************************************
 PURPOSE: (S_define file for SIM_TRACE)
-LIBRARY_DEPENDENCY: ((cannon/src/robot_init.c)
-                     (cannon/src/robot_numeric.c)
-                     (cannon/src/robot_shutdown.c))
+LIBRARY_DEPENDENCY: ((ball/src/robot_init.c)
+                     (ball/src/robot_numeric.c)
+                     (ball/src/robot_shutdown.c))
 ****************************************************************/
 #include "sim_objects/default_trick_sys.sm"
 ##include "ball/include/ball_numeric.h"
@@ -24,5 +24,5 @@ class TRACESimObject : public Trick::SimObject {
 TRACESimObject dyn ;
 IntegLoop dyn_integloop (0.01) dyn ;
 void create_connections() {
-    dyn_integloop.getIntegrator(Runge_Kutta_4, 4);
+    dyn_integloop.getIntegrator(Runge_Kutta_4, 6);
 }
