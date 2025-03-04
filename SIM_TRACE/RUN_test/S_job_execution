@@ -7,8 +7,8 @@ Trick::Threads (Child_0)
     trigger type = mutex
     number of scheduled jobs = 7
     from Trick::ThreadBase
-    pthread_id = 140613904193344
-    process_id = 120877
+    pthread_id = 140193325311808
+    process_id = 7264
     rt_priority = 0
     cpus = none assigned
 

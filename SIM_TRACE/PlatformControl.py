@@ -114,6 +114,26 @@ board.start()
 
 # ----------------------------------------------------------------------
 # 8.0 Repeatedly read and process the responses from the variable server.
+tarX = 5
+errX = 0
+prevX = 0
+intgX = 0
+derX = 0
+oldX = 0
+KpX = .5
+KiX = 0
+KdX = 1
+
+tarY = 5
+errY = 0
+prevY = 0
+intgY = 0
+derY = 0
+oldY = 0
+KpY = .5
+KiY = 0
+KdY = 1
+
 while(True):
     # 8.1 Read the response line from the variable server.
     line = insock.readline()
@@ -124,7 +144,17 @@ while(True):
     field = line.split("\t")
 
     # 8.3 Get the position of the ball and update it on the canvas.
+    prevX, prevY = errX, errY
     x,y = float(field[1]), float(field[2])
+    errX, errY = tarX - x, tarY - y
+    intgX, intgY = intgX + errX, intgY + errY
+    derX, derY = errX - prevX, errY - prevY
+    rX = errX * KpX + intgX * KiX + derX * KdX
+    rY = errY * KpY + intgY * KiY + derY * KdY
+    
+    client_socket.send( b"dyn.ball.acc[0] = "+ bytes(str(rX), 'UTF-8')  + b" \n")
+    client_socket.send( b"dyn.ball.acc[1] = "+ bytes(str(rY), 'UTF-8')  + b" \n")
+    
     cx,cy = (x*SCALE+MARGIN), (HEIGHT-y*SCALE-MARGIN)
     canvas.coords(robotBall,cx-ballRadius,cy-ballRadius,cx+ballRadius,cy+ballRadius)
 
