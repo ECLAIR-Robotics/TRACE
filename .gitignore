@@ -1,1 +1,11 @@
 .vscode/settings.json
+SIM_TRACE/RUN_test/_init_log.csv
+SIM_TRACE/RUN_test/log_frame_trickjobs.trk
+SIM_TRACE/RUN_test/log_frame_userjobs_main.trk
+SIM_TRACE/RUN_test/log_frame.trk
+SIM_TRACE/RUN_test/log_my_robot.trk
+SIM_TRACE/RUN_test/log_timeline_init.csv
+SIM_TRACE/RUN_test/log_timeline.csv
+SIM_TRACE/RUN_test/S_job_execution
+SIM_TRACE/RUN_test/S_run_summary
+SIM_TRACE/RUN_test/send_hs
