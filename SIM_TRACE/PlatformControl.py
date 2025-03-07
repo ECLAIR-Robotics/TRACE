@@ -122,7 +122,7 @@ prevX = 0
 intgX = 0
 derX = 0
 oldX = 0
-Kp = 4
+Kp = 5
 Ki = 0
 Kd = 20
 
@@ -169,6 +169,15 @@ while(True):
     derX, derY = errX - prevX, errY - prevY
     rX = errX * Kp + intgX * Ki + derX * Kd
     rY = errY * Kp + intgY * Ki + derY * Kd
+    
+    if (rX > 30):
+        rX = 30
+    elif (rX < -30):
+        rX = -30
+    if (rY > 30):
+        rY = 30
+    elif (rY < -30):
+        rY = -30
 
     time = float(field[8][0:-4])
 
@@ -182,7 +191,7 @@ while(True):
     if (approached):
         overshoot_dist = max(overshoot_dist, distance - target_radius)
         speed = math.sqrt(derX * derX + derY * derY)
-        if (speed < settled_epsilon and not settled):
+        if (speed < settled_epsilon and distance <= target_radius and not settled):
             settled = True
             settle_time_end = time
 

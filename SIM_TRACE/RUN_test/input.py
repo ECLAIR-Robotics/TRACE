@@ -1,6 +1,6 @@
 exec(open("Modified_data/realtime.py").read())
 exec(open("Modified_data/ball.dr").read())
-#trick.stop(10.4)
+# trick.stop(10.4)
 #==================================
 # Start the variable server client.
 #==================================
