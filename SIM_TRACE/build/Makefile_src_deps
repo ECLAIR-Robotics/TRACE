@@ -1,0 +1,14 @@
+build/Makefile_src:\
+ /home/arnavjoshi/trick_sims/TRACE/SIM_TRACE/S_source.hh\
+ /home/arnavjoshi/trick_sims/TRACE/SIM_TRACE/models/ball/include/ball.h\
+ /home/arnavjoshi/trick_sims/TRACE/SIM_TRACE/models/ball/include/ball_numeric.h\
+ /home/arnavjoshi/trick_sims/TRACE/SIM_TRACE/models/ball/src/robot_init.c\
+ /home/arnavjoshi/trick_sims/TRACE/SIM_TRACE/models/ball/src/robot_numeric.c\
+ /home/arnavjoshi/trick_sims/TRACE/SIM_TRACE/models/ball/src/robot_shutdown.c
+
+/home/arnavjoshi/trick_sims/TRACE/SIM_TRACE/S_source.hh:
+/home/arnavjoshi/trick_sims/TRACE/SIM_TRACE/models/ball/include/ball.h:
+/home/arnavjoshi/trick_sims/TRACE/SIM_TRACE/models/ball/include/ball_numeric.h:
+/home/arnavjoshi/trick_sims/TRACE/SIM_TRACE/models/ball/src/robot_init.c:
+/home/arnavjoshi/trick_sims/TRACE/SIM_TRACE/models/ball/src/robot_numeric.c:
+/home/arnavjoshi/trick_sims/TRACE/SIM_TRACE/models/ball/src/robot_shutdown.c:

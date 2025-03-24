@@ -7,8 +7,8 @@ Trick::Threads (Child_0)
     trigger type = mutex
     number of scheduled jobs = 7
     from Trick::ThreadBase
-    pthread_id = 140613904193344
-    process_id = 120877
+    pthread_id = 139930990896960
+    process_id = 29437
     rt_priority = 0
     cpus = none assigned
 
@@ -54,10 +54,7 @@ Initialization:
       1 |   0 |initialization           | 65534 |          |          |          |  1.01 | trick_sys.exec_collect_init
       1 |   0 |initialization           | 65534 |          |          |          |  1.02 | trick_sys.sched.write_s_run_summary
       1 |   0 |initialization           | 65534 |          |          |          | 12.01 | trick_data_record.drd.init
-      1 |   0 |initialization           | 65534 |          |          |          | 24.01 | trick_data_record_group_frame_userjobs_main.init
-      1 |   0 |initialization           | 65534 |          |          |          | 25.01 | trick_data_record_group_frame_trickjobs.init
-      1 |   0 |initialization           | 65534 |          |          |          | 26.01 | trick_data_record_group_frame.init
-      1 |   0 |initialization           | 65534 |          |          |          | 27.01 | trick_data_record_group_my_robot.init
+      1 |   0 |initialization           | 65534 |          |          |          | 24.01 | trick_data_record_group_my_robot.init
       1 |   0 |initialization           | 65535 |          |          |          |  1.03 | trick_sys.sched.check_all_jobs_handled
       1 |   0 |initialization           | 65535 |          |          |          |  1.04 | trick_sys.sched.check_all_job_cycle_times
       1 |   0 |initialization           | 65535 |          |          |          |  1.05 | trick_sys.sched.create_threads
@@ -77,7 +74,7 @@ Scheduled Loop:
 
 Thread 0:
       1 |   0 |automatic_last           | 60000 | 0.000000 |        1 |    1e+37 | 11.09 | trick_vs.vs.copy_and_write_scheduled
-      1 |   0 |data_record              | 60000 | 0.000000 |     0.01 |    1e+37 | 27.99 | trick_data_record_group_my_robot.data_record
+      1 |   0 |data_record              | 60000 | 0.000000 |     0.01 |    1e+37 | 24.99 | trick_data_record_group_my_robot.data_record
       1 |   0 |system_checkpoint        | 0     | 0.000000 |        1 |    1e+37 |  4.03 | trick_cpr.cpr.write_checkpoint
       1 |   0 |system_checkpoint        | 0     | 0.000000 |        1 |    1e+37 |  4.04 | trick_cpr.cpr.safestore_checkpoint
       1 |   0 |system_advance_sim_time  | 60000 | 0.000000 |        1 |    1e+37 |  1.15 | trick_sys.sched.advance_sim_time
@@ -101,23 +98,11 @@ Thread 0:
       1 |   0 |end_of_frame             | 60000 | 0.000000 |        1 |    1e+37 |  1.12 | trick_sys.sched.sched_freeze_to_exec_command
       1 |   0 |end_of_frame             | 60000 | 0.000000 |        1 |    1e+37 |  1.13 | trick_sys.sched.async_freeze_to_exec_command
       1 |   0 |end_of_frame             | 60000 | 0.000000 |        1 |    1e+37 | 12.03 | trick_data_record.drd.signal_thread
-      1 |   0 |end_of_frame             | 60000 | 0.000000 |        1 |    1e+37 | 24.02 | trick_data_record_group_frame_userjobs_main.write_data
-      1 |   0 |end_of_frame             | 60000 | 0.000000 |        1 |    1e+37 | 25.02 | trick_data_record_group_frame_trickjobs.write_data
-      1 |   0 |end_of_frame             | 60000 | 0.000000 |        1 |    1e+37 | 26.02 | trick_data_record_group_frame.write_data
-      1 |   0 |end_of_frame             | 60000 | 0.000000 |        1 |    1e+37 | 27.02 | trick_data_record_group_my_robot.write_data
-      1 |   0 |end_of_frame             | 65532 | 0.000000 |        1 |    1e+37 | 34.03 | trick_data_record_group_frame_userjobs_main.adjust_time
-      1 |   0 |end_of_frame             | 65532 | 0.000000 |        1 |    1e+37 | 35.03 | trick_data_record_group_frame_trickjobs.adjust_time
-      1 |   0 |end_of_frame             | 65532 | 0.000000 |        1 |    1e+37 | 36.03 | trick_data_record_group_frame.adjust_time
-      1 |   0 |end_of_frame             | 65533 | 0.000000 |      0.1 |    1e+37 | 24.99 | trick_data_record_group_frame_userjobs_main.data_record
+      1 |   0 |end_of_frame             | 60000 | 0.000000 |        1 |    1e+37 | 24.02 | trick_data_record_group_my_robot.write_data
       1 |   0 |end_of_frame             | 65534 | 0.000000 |        1 |    1e+37 | 15.06 | trick_master_slave.master.end_of_frame_status_from_slave
       1 |   0 |end_of_frame             | 65534 | 0.000000 |        1 |    1e+37 | 15.08 | trick_master_slave.slave.end_of_frame
       1 |   0 |end_of_frame             | 65535 | 0.000000 |        1 |    1e+37 | 13.09 | trick_real_time.rt_sync.rt_monitor
       1 |   0 |end_of_frame             | 65535 | 0.000000 |        1 |    1e+37 | 15.07 | trick_master_slave.master.end_of_frame_status_to_slave
-      1 |   0 |end_of_frame             | 65535 | 0.000000 |        1 |    1e+37 | 34.02 | trick_data_record_group_frame_userjobs_main.frame_log_clear
-      1 |   0 |end_of_frame             | 65535 | 0.000000 |      0.1 |    1e+37 | 25.99 | trick_data_record_group_frame_trickjobs.data_record
-      1 |   0 |end_of_frame             | 65535 | 0.000000 |        1 |    1e+37 | 35.02 | trick_data_record_group_frame_trickjobs.frame_log_clear
-      1 |   0 |end_of_frame             | 65535 | 0.000000 |      0.1 |    1e+37 | 26.99 | trick_data_record_group_frame.data_record
-      1 |   0 |end_of_frame             | 65535 | 0.000000 |        1 |    1e+37 | 36.02 | trick_data_record_group_frame.frame_log_clear
 
 ===================================================================================================
 Freeze Loop:
@@ -145,10 +130,7 @@ Shutdown:
       1 |   0 |shutdown                 | 60000 |          |          |          | 11.13 | trick_vs.vs.shutdown
       1 |   0 |shutdown                 | 60000 |          |          |          | 12.06 | trick_data_record.drd.shutdown
       1 |   0 |shutdown                 | 60000 |          |          |          | 21.04 | dyn.robot_shutdown
-      1 |   0 |shutdown                 | 60000 |          |          |          | 24.06 | trick_data_record_group_frame_userjobs_main.shutdown
-      1 |   0 |shutdown                 | 60000 |          |          |          | 25.06 | trick_data_record_group_frame_trickjobs.shutdown
-      1 |   0 |shutdown                 | 60000 |          |          |          | 26.06 | trick_data_record_group_frame.shutdown
-      1 |   0 |shutdown                 | 60000 |          |          |          | 27.06 | trick_data_record_group_my_robot.shutdown
+      1 |   0 |shutdown                 | 60000 |          |          |          | 24.06 | trick_data_record_group_my_robot.shutdown
       1 |   0 |shutdown                 | 65534 |          |          |          | 15.15 | trick_master_slave.master.shutdown
       1 |   0 |shutdown                 | 65534 |          |          |          | 15.16 | trick_master_slave.slave.shutdown
       1 |   0 |shutdown                 | 65535 |          |          |          |  9.03 | trick_ip.ip.shutdown
@@ -168,15 +150,9 @@ CheckPointRestart :
 
       1 |   0 |checkpoint               | 0     |          |          |          |  1.08 | trick_sys.sched.checkpoint
       1 |   0 |checkpoint               | 60000 |          |          |          | 15.04 | trick_master_slave.master.checkpoint
-      1 |   0 |checkpoint               | 60000 |          |          |          | 24.03 | trick_data_record_group_frame_userjobs_main.checkpoint
-      1 |   0 |checkpoint               | 60000 |          |          |          | 25.03 | trick_data_record_group_frame_trickjobs.checkpoint
-      1 |   0 |checkpoint               | 60000 |          |          |          | 26.03 | trick_data_record_group_frame.checkpoint
-      1 |   0 |checkpoint               | 60000 |          |          |          | 27.03 | trick_data_record_group_my_robot.checkpoint
+      1 |   0 |checkpoint               | 60000 |          |          |          | 24.03 | trick_data_record_group_my_robot.checkpoint
       1 |   0 |post_checkpoint          | 0     |          |          |          |  1.09 | trick_sys.sched.post_checkpoint
-      1 |   0 |post_checkpoint          | 60000 |          |          |          | 24.04 | trick_data_record_group_frame_userjobs_main.clear_checkpoint_vars
-      1 |   0 |post_checkpoint          | 60000 |          |          |          | 25.04 | trick_data_record_group_frame_trickjobs.clear_checkpoint_vars
-      1 |   0 |post_checkpoint          | 60000 |          |          |          | 26.04 | trick_data_record_group_frame.clear_checkpoint_vars
-      1 |   0 |post_checkpoint          | 60000 |          |          |          | 27.04 | trick_data_record_group_my_robot.clear_checkpoint_vars
+      1 |   0 |post_checkpoint          | 60000 |          |          |          | 24.04 | trick_data_record_group_my_robot.clear_checkpoint_vars
       1 |   0 |preload_checkpoint       | 0     |          |          |          | 22.04 | dyn_integloop.integ_sched.restart_checkpoint
       1 |   0 |preload_checkpoint       | 60000 |          |          |          | 10.06 | trick_em.em.preload_checkpoint
       1 |   0 |preload_checkpoint       | 60000 |          |          |          | 10.07 | trick_em.ep.preload_checkpoint
@@ -192,7 +168,7 @@ CheckPointRestart :
       1 |   0 |restart                  | 60000 |          |          |          | 12.05 | trick_data_record.drd.restart
       1 |   0 |restart                  | 60000 |          |          |          | 14.04 | trick_frame_log.frame_log.clear_data_record_info
       1 |   0 |restart                  | 60000 |          |          |          | 22.05 | dyn_integloop.integ_sched.rebuild_jobs
-      1 |   0 |restart                  | 60001 |          |          |          | 27.05 | trick_data_record_group_my_robot.restart
+      1 |   0 |restart                  | 60001 |          |          |          | 24.05 | trick_data_record_group_my_robot.restart
       1 |   0 |restart                  | 65534 |          |          |          |  1.10 | trick_sys.exec_collect_init
       1 |   0 |restart                  | 65535 |          |          |          | 10.02 | trick_em.ep.add_pending_events
       1 |   0 |restart                  | 65535 |          |          |          | 13.05 | trick_real_time.rt_sync.restart

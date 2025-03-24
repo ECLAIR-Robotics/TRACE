@@ -86,31 +86,31 @@ client_socket.send( b"trick.var_add(\"dyn.ball.pos[0]\") \n" +
 client_socket.send( b"trick.var_unpause()\n" )
 
 
-def on_key(key):
-    if key == keyboard.KeyCode.from_char('w'):
-        client_socket.send( b"dyn.ball.motor[1] = 1 \n")
-    elif key == keyboard.KeyCode.from_char('s'):
-        client_socket.send( b"dyn.ball.motor[1] = -1 \n")
-    elif key == keyboard.KeyCode.from_char('a'):
-        client_socket.send( b"dyn.ball.motor[0] = -1 \n")
-    elif key == keyboard.KeyCode.from_char('d'):
-        client_socket.send( b"dyn.ball.motor[0] = 1 \n")
+# def on_key(key):
+#     if key == keyboard.KeyCode.from_char('w'):
+#         client_socket.send( b"dyn.ball.motor[1] = 1 \n")
+#     elif key == keyboard.KeyCode.from_char('s'):
+#         client_socket.send( b"dyn.ball.motor[1] = -1 \n")
+#     elif key == keyboard.KeyCode.from_char('a'):
+#         client_socket.send( b"dyn.ball.motor[0] = -1 \n")
+#     elif key == keyboard.KeyCode.from_char('d'):
+#         client_socket.send( b"dyn.ball.motor[0] = 1 \n")
 
-def off_key(key):
-    if key == keyboard.KeyCode.from_char('w'):
-        client_socket.send( b"dyn.ball.motor[1] = 0 \n")
-        print("up")
-    elif key == keyboard.KeyCode.from_char('s'):
-        client_socket.send( b"dyn.ball.motor[1] = 0 \n")
-    elif key == keyboard.KeyCode.from_char('a'):
-        client_socket.send( b"dyn.ball.motor[0] = 0 \n")
-    elif key == keyboard.KeyCode.from_char('d'):
-        client_socket.send( b"dyn.ball.motor[0] = 0 \n")
+# def off_key(key):
+#     if key == keyboard.KeyCode.from_char('w'):
+#         client_socket.send( b"dyn.ball.motor[1] = 0 \n")
+#         print("up")
+#     elif key == keyboard.KeyCode.from_char('s'):
+#         client_socket.send( b"dyn.ball.motor[1] = 0 \n")
+#     elif key == keyboard.KeyCode.from_char('a'):
+#         client_socket.send( b"dyn.ball.motor[0] = 0 \n")
+#     elif key == keyboard.KeyCode.from_char('d'):
+#         client_socket.send( b"dyn.ball.motor[0] = 0 \n")
 
 
 
-board = keyboard.Listener(on_press=on_key, on_release=off_key)
-board.start()
+# board = keyboard.Listener(on_press=on_key, on_release=off_key)
+# board.start()
 
 # ----------------------------------------------------------------------
 # 8.0 Repeatedly read and process the responses from the variable server.

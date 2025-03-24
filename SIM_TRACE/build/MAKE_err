@@ -1,0 +1,4 @@
+/home/arnavjoshi/trick_sims/TRACE/SIM_TRACE/models/ball/src/robot_numeric.c: In function ‘robot_integ’:
+/home/arnavjoshi/trick_sims/TRACE/SIM_TRACE/models/ball/src/robot_numeric.c:50:10: error: called object is not a function or function pointer
+   50 |         &B->pos[1]
+      |          ^

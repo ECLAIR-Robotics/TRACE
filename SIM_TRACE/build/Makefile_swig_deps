@@ -1,0 +1,4 @@
+build/Makefile_swig: \
+    /home/arnavjoshi/trick_sims/TRACE/SIM_TRACE/S_source.hh \
+    /home/arnavjoshi/trick_sims/TRACE/SIM_TRACE/models/ball/include/ball.h \
+    /home/arnavjoshi/trick_sims/TRACE/SIM_TRACE/models/ball/include/ball_numeric.h
