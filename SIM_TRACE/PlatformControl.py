@@ -116,7 +116,7 @@ board.start()
 
 # ----------------------------------------------------------------------
 # 8.0 Repeatedly read and process the responses from the variable server.
-tarX = 500
+tarX = 10
 errX = 0
 prevX = 0
 intgX = 0
@@ -126,7 +126,7 @@ Kp = 5
 Ki = 0
 Kd = 20
 
-tarY = 500
+tarY = 8
 errY = 0
 prevY = 0
 intgY = 0
@@ -138,7 +138,7 @@ approach_time_end = approach_time_start
 settle_time_start = 0
 settle_time_end = settle_time_start
 overshoot_dist = 0
-target_radius = ballRadius
+target_radius = ballRadius / SCALE
 approached = False
 settled = False
 settled_epsilon = 1e-1
