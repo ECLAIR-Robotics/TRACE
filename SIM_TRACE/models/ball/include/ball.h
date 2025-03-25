@@ -18,6 +18,25 @@ typedef struct {
     double tiltrate[2]; /* m/s^3 derivative of acceleration, abstract approximation of tiltrate */
     double motor[2]; /*are we moving or not*/
 
+    double kP; /* -- coefficient of proportional component */
+    double kI; /* -- coefficient of integral component */
+    double kD; /* -- coefficient of derivative component */
+
+    double targetX; /* -- target x coordinate */
+    double targetY; /* -- target y coordinate */
+
+    double errorX; /* -- error from target x */
+    double errorY; /* -- error from target y */
+
+    double prevX; /* -- previous x error */
+    double prevY; /* -- previous y error */
+
+    double integX; /* -- x integral component */
+    double integY; /* -- y integral component */
+
+    double derivX; /* -- x derivative component */
+    double derivY; /* -- y derivative component */
+
 } BALL ;
 
 #ifdef __cplusplus

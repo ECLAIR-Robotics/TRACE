@@ -116,22 +116,22 @@ board.start()
 
 # ----------------------------------------------------------------------
 # 8.0 Repeatedly read and process the responses from the variable server.
-tarX = 10
-errX = 0
-prevX = 0
-intgX = 0
-derX = 0
-oldX = 0
-Kp = 5
-Ki = 0
-Kd = 20
+# tarX = 500
+# errX = 0
+# prevX = 0
+# intgX = 0
+# derX = 0
+# oldX = 0
+# Kp = 5
+# Ki = 0
+# Kd = 20
 
-tarY = 8
-errY = 0
-prevY = 0
-intgY = 0
-derY = 0
-oldY = 0
+# tarY = 500
+# errY = 0
+# prevY = 0
+# intgY = 0
+# derY = 0
+# oldY = 0
 
 approach_time_start = 0
 approach_time_end = approach_time_start
@@ -162,45 +162,47 @@ while(True):
     field = line.split("\t")
 
     # 8.3 Get the position of the ball and update it on the canvas.
-    prevX, prevY = errX, errY
     x,y = float(field[1]), float(field[2])
-    errX, errY = tarX - x, tarY - y
-    intgX, intgY = intgX + errX, intgY + errY
-    derX, derY = errX - prevX, errY - prevY
-    rX = errX * Kp + intgX * Ki + derX * Kd
-    rY = errY * Kp + intgY * Ki + derY * Kd
+    # REMOVE THIS, MOVE TO BALL DEPRECATED
+    # prevX, prevY = errX, errY
+    # errX, errY = tarX - x, tarY - y
+    # intgX, intgY = intgX + errX, intgY + errY
+    # derX, derY = errX - prevX, errY - prevY
+    # rX = errX * Kp + intgX * Ki + derX * Kd
+    # rY = errY * Kp + intgY * Ki + derY * Kd
     
-    if (rX > 30):
-        rX = 30
-    elif (rX < -30):
-        rX = -30
-    if (rY > 30):
-        rY = 30
-    elif (rY < -30):
-        rY = -30
+    # if (rX > 30):
+    #     rX = 30
+    # elif (rX < -30):
+    #     rX = -30
+    # if (rY > 30):
+    #     rY = 30
+    # elif (rY < -30):
+    #     rY = -30
 
     time = float(field[8][0:-4])
 
     # target reached
-    distance = math.sqrt(errX * errX + errY * errY)
-    if (distance <= target_radius and not approached):
-        approached = True
-        approach_time_end = time
-        settle_time_start = time
-        settle_time_end = time
-    if (approached):
-        overshoot_dist = max(overshoot_dist, distance - target_radius)
-        speed = math.sqrt(derX * derX + derY * derY)
-        if (speed < settled_epsilon and distance <= target_radius and not settled):
-            settled = True
-            settle_time_end = time
+    # NOT WORKING, NEED TO RETRIEVE ERROR
+    # distance = math.sqrt(errX * errX + errY * errY)
+    # if (distance <= target_radius and not approached):
+    #     approached = True
+    #     approach_time_end = time
+    #     settle_time_start = time
+    #     settle_time_end = time
+    # if (approached):
+    #     overshoot_dist = max(overshoot_dist, distance - target_radius)
+    #     speed = math.sqrt(derX * derX + derY * derY)
+    #     if (speed < settled_epsilon and distance <= target_radius and not settled):
+    #         settled = True
+    #         settle_time_end = time
 
-    print("Approach time: " + str(approach_time_end - approach_time_start))
-    print("Settle time: " + str(settle_time_end - settle_time_start))
-    print("Overshoot dist: " + str(overshoot_dist))
+    # print("Approach time: " + str(approach_time_end - approach_time_start))
+    # print("Settle time: " + str(settle_time_end - settle_time_start))
+    # print("Overshoot dist: " + str(overshoot_dist))
     
-    client_socket.send( b"dyn.ball.acc[0] = "+ bytes(str(rX), 'UTF-8')  + b" \n")
-    client_socket.send( b"dyn.ball.acc[1] = "+ bytes(str(rY), 'UTF-8')  + b" \n")
+    # client_socket.send( b"dyn.ball.acc[0] = "+ bytes(str(rX), 'UTF-8')  + b" \n")
+    # client_socket.send( b"dyn.ball.acc[1] = "+ bytes(str(rY), 'UTF-8')  + b" \n")
     
     cx,cy = (x*SCALE+MARGIN), (HEIGHT-y*SCALE-MARGIN)
     canvas.coords(robotBall,cx-ballRadius,cy-ballRadius,cx+ballRadius,cy+ballRadius)
