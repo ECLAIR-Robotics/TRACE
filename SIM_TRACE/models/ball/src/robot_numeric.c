@@ -19,6 +19,9 @@ int robot_deriv(BALL* B){
     B->errorX = B->targetX - B->pos[0];
     B->errorY = B->targetY - B->pos[1];
 
+    // printf("[target x: %lf]\n", B->targetX);
+    // printf("[target y: %lf]\n", B->targetY);
+
     B->integX = B->integX + B->errorX;
     B->integY = B->integY + B->errorY;
 
@@ -27,6 +30,9 @@ int robot_deriv(BALL* B){
 
     double rX = B->errorX * B->kP + B->integX * B->kI + B->derivX * B->kD;
     double rY = B->errorY * B->kP + B->integY * B->kI + B->derivY * B->kD;
+
+    // printf("[rX: %lf]\n", rX);
+    // printf("[rY: %lf]\n", rY);
 
     if (rX > 30) {
         rX = 30;

@@ -20,12 +20,12 @@ int robot_default_data( BALL* B ) {
 
     B->time = 0.0;
 
-    B->kP = 0;
+    B->kP = 5;
     B->kI = 0;
     B->kD = 0;
 
-    B->targetX = 500;
-    B->targetY = 500;
+    B->targetX = 5;
+    B->targetY = 5;
 
     B->errorX = 0;
     B->errorY = 0;
