@@ -3,16 +3,18 @@
 #include<iostream>
 #include<opencv2/highgui/highgui.hpp>
 #include<opencv2/imgproc/imgproc.hpp>
+#define MIN_AREA 500  // Set a reasonable threshold based on object size
+
 using namespace std;
 using namespace cv;
 int main(int argc, char** argv) {
    VideoCapture video_load(0);//capturing video from default camera//
    namedWindow("Adjust");//declaring window to show the image//
    int Hue_Lower_Value = 0;//initial hue value(lower)//
-   int Hue_Lower_Upper_Value = 22;//initial hue value(upper)//
-   int Saturation_Lower_Value = 0;//initial saturation(lower)//
-   int Saturation_Upper_Value = 255;//initial saturation(upper)//
-   int Value_Lower = 0;//initial value (lower)//
+   int Hue_Lower_Upper_Value = 26;//initial hue value(upper)//
+   int Saturation_Lower_Value = 11;//initial saturation(lower)//
+   int Saturation_Upper_Value = 99;//initial saturation(upper)//
+   int Value_Lower = 212;//initial value (lower)//
    int Value_Upper = 255;//initial saturation(upper)//
    createTrackbar("Hue_Lower", "Adjust", &Hue_Lower_Value, 255);//track-bar for lower hue//
    createTrackbar("Hue_Upper", "Adjust", &Hue_Lower_Upper_Value, 255);//track-bar for lower-upper hue//
@@ -31,20 +33,57 @@ int main(int argc, char** argv) {
       dilate(detection_screen, detection_screen, getStructuringElement(MORPH_ELLIPSE, Size(5, 5)));//morphological opening for removing small object from foreground//
       dilate(detection_screen, detection_screen, getStructuringElement(MORPH_ELLIPSE, Size(5, 5)));//morphological closing for filling up small holes in foreground//
       erode(detection_screen, detection_screen, getStructuringElement(MORPH_ELLIPSE, Size(5, 5)));//morphological closing for filling up small holes in foreground//
-      Moments m = moments(detection_screen, true);
-      Point center(m.m10 / m.m00, m.m01 / m.m00);
-      printf("%f\n", m.m10/m.m00);
-      printf("%f\n", m.m01/m.m00);
+
+      cv::Mat mask = detection_screen.clone();
 
       // Draw the center point on the image
-      circle(actual_Image, center, 5, Scalar(0, 255, 0), -1);
-      imshow("Threesholded Image", detection_screen);//showing detected object//
-      imshow("Original", actual_Image);//showing actual image//
+     // imshow("Threesholded Image", detection_screen);//showing detected object//
+      //imshow("Original", actual_Image);//showing actual image//
       if (waitKey(30) == 27){ //if esc is press break the loop//
          break;
       }
       
-      
+      if (detection_screen.empty()) {
+         std::cerr << "Error loading mask image!" << std::endl;
+         return -1;
+     }
+ 
+     // Find contours
+     std::vector<std::vector<cv::Point>> contours;
+     cv::findContours(mask, contours, cv::RETR_EXTERNAL, cv::CHAIN_APPROX_SIMPLE);
+ 
+     double max_area = 0;
+     std::vector<cv::Point> largest_contour;
+ 
+     // Iterate and find the largest contour with area above the threshold
+     for (const auto& contour : contours) {
+         double area = cv::contourArea(contour);
+         if (area > MIN_AREA && area > max_area) {
+             max_area = area;
+             largest_contour = contour;
+         }
+     }
+ 
+     if (!largest_contour.empty()) {
+         // Get the enclosing circle
+         cv::Point2f center;
+         float radius;
+         cv::minEnclosingCircle(largest_contour, center, radius);
+ 
+         std::cout << "Center: (" << center.x << ", " << center.y << "), Radius: " << radius << std::endl;
+ 
+         // Draw the detected object
+         cv::Mat output;
+         cv::cvtColor(mask, output, cv::COLOR_GRAY2BGR);
+         cv::circle(output, center, static_cast<int>(radius), cv::Scalar(0, 255, 0), 2);
+ 
+         cv::imshow("Detected Object", output);
+        // cv::waitKey(0);
+         //cv::destroyAllWindows();
+     } else {
+         std::cout << "No large object detected." << std::endl;
+     }
+ 
       // Display the result
       
    }
