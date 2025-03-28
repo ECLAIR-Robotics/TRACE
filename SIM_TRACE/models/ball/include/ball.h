@@ -12,30 +12,20 @@ typedef struct {
     double acc[2] ;     /* m/s2 xy-acceleration  */
     double vel[2] ;     /* m/s xy-velocity */
     double pos[2] ;     /* m xy-position */
+    double theta[2];    /*tilted angle */
 
     double time;        /* s Model time */
-
-    double tiltrate[2]; /* m/s^3 derivative of acceleration, abstract approximation of tiltrate */
-    double motor[2]; /*are we moving or not*/
 
     double kP; /* -- coefficient of proportional component */
     double kI; /* -- coefficient of integral component */
     double kD; /* -- coefficient of derivative component */
 
-    double targetX; /* -- target x coordinate */
-    double targetY; /* -- target y coordinate */
+    double target[2];
+    
 
-    double errorX; /* -- error from target x */
-    double errorY; /* -- error from target y */
+    double error[2];
 
-    double prevX; /* -- previous x error */
-    double prevY; /* -- previous y error */
-
-    double integX; /* -- x integral component */
-    double integY; /* -- y integral component */
-
-    double derivX; /* -- x derivative component */
-    double derivY; /* -- y derivative component */
+    double integ[2];
 
 } BALL ;
 

@@ -7,51 +7,41 @@
 #include "../include/ball_numeric.h"
 
 int robot_deriv(BALL* B){
-    double MOTORSPEED =.1;
-    B->tiltrate[0] = MOTORSPEED * B->motor[0];
-    B->tiltrate[1] = MOTORSPEED * B->motor[1];
+    //adding control loop in here to run in sim-time
+    double Kp = B->kP;
+    double Ki = B->kI;
+    double Kd = B->kD;
 
-    // slide in the rX / rY calculations here!
+    B->error[0] = B->target[0] - B->pos[0];
+    B->theta[0] = Kp * B->error[0] + Ki * B->integ[0] - Kd * B->vel[0];
 
-    B->prevX = B->errorX;
-    B->prevY = B->errorY;
+    B->error[1] = B->target[1] - B->pos[1];
+    B->theta[1] = Kp * B->error[1] + Ki * B->integ[1] - Kd * B->vel[1];
 
-    B->errorX = B->targetX - B->pos[0];
-    B->errorY = B->targetY - B->pos[1];
-
-    // printf("[target x: %lf]\n", B->targetX);
-    // printf("[target y: %lf]\n", B->targetY);
-
-    B->integX = B->integX + B->errorX;
-    B->integY = B->integY + B->errorY;
-
-    B->derivX = B->errorX - B->prevX;
-    B->derivY = B->errorY - B->prevY;
-
-    double rX = B->errorX * B->kP + B->integX * B->kI + B->derivX * B->kD;
-    double rY = B->errorY * B->kP + B->integY * B->kI + B->derivY * B->kD;
-
-    // printf("[rX: %lf]\n", rX);
-    // printf("[rY: %lf]\n", rY);
-
-    if (rX > 30) {
-        rX = 30;
+    if (B->theta[0] > .16)
+    {
+        B->theta[0]=.16;
     }
-    else if (rX < -30) {
-        rX = -30;
-    }
-    if (rY > 30) {
-        rY = 30;
-    }
-    else if (rY < -30) {
-        rY = -30;
+    if (B->theta[0] < -.16)
+    {
+        B->theta[0]= -.16;
     }
 
-    B->acc[0] = rX;
-    B->acc[1] = rY;
+    if (B->theta[1] > .16)
+    {
+        B->theta[1]=.16;
+    }
+    if (B->theta[1] < -.16)
+    {
+        B->theta[1]= -.16;
+    }
+    
+    B->acc[0] = 9.81 * B->theta[0];
+    B->acc[1] = 9.81 * B->theta[1];
 
     return (0) ;    
 }
+
 
 int robot_integ(BALL* B){
     int ipass = 0;
@@ -61,8 +51,8 @@ int robot_integ(BALL* B){
         &B->pos[1],
         &B->vel[0],
         &B->vel[1],
-        &B->acc[0],
-        &B->acc[1],
+        &B->integ[0],
+        &B->integ[1],
         NULL
     );
 
@@ -71,8 +61,8 @@ int robot_integ(BALL* B){
         &B->vel[1],
         &B->acc[0],
         &B->acc[1],
-        &B->tiltrate[0],
-        &B->tiltrate[1],
+        &B->pos[0],
+        &B->pos[1],
         NULL
     );
     ipass = integrate();
@@ -81,8 +71,8 @@ int robot_integ(BALL* B){
         &B->pos[1],
         &B->vel[0],
         &B->vel[1],
-        &B->acc[0],
-        &B->acc[1],
+        &B->integ[0],
+        &B->integ[1],
         NULL
     );
     return (ipass);
