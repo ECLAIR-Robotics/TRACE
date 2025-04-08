@@ -12,8 +12,8 @@ int main(int argc, char** argv) {
    namedWindow("Adjust");//declaring window to show the image//
    int Hue_Lower_Value = 0;//initial hue value(lower)//
    int Hue_Lower_Upper_Value = 26;//initial hue value(upper)//
-   int Saturation_Lower_Value = 11;//initial saturation(lower)//
-   int Saturation_Upper_Value = 99;//initial saturation(upper)//
+   int Saturation_Lower_Value = 0;//initial saturation(lower)//
+   int Saturation_Upper_Value = 8;//initial saturation(upper)//
    int Value_Lower = 212;//initial value (lower)//
    int Value_Upper = 255;//initial saturation(upper)//
    createTrackbar("Hue_Lower", "Adjust", &Hue_Lower_Value, 255);//track-bar for lower hue//
@@ -29,11 +29,7 @@ int main(int argc, char** argv) {
       cvtColor(actual_Image, convert_to_HSV, COLOR_BGR2HSV);//converting BGR image to HSV and storing it in convert_to_HSV matrix//
       Mat detection_screen;//declaring matrix for window where object will be detected//
       inRange(convert_to_HSV,Scalar(Hue_Lower_Value,Saturation_Lower_Value, Value_Lower),Scalar(Hue_Lower_Upper_Value,Saturation_Upper_Value, Value_Upper), detection_screen);//applying track-bar modified value of track-bar//
-      erode(detection_screen, detection_screen, getStructuringElement(MORPH_ELLIPSE, Size(5, 5)));//morphological opening for removing small objects from foreground//
-      dilate(detection_screen, detection_screen, getStructuringElement(MORPH_ELLIPSE, Size(5, 5)));//morphological opening for removing small object from foreground//
-      dilate(detection_screen, detection_screen, getStructuringElement(MORPH_ELLIPSE, Size(5, 5)));//morphological closing for filling up small holes in foreground//
-      erode(detection_screen, detection_screen, getStructuringElement(MORPH_ELLIPSE, Size(5, 5)));//morphological closing for filling up small holes in foreground//
-
+      cv::imshow("Actual Object", actual_Image);
       cv::Mat mask = detection_screen.clone();
 
       // Draw the center point on the image
@@ -63,7 +59,7 @@ int main(int argc, char** argv) {
              largest_contour = contour;
          }
      }
- 
+     float ballRadius = .1;
      if (!largest_contour.empty()) {
          // Get the enclosing circle
          cv::Point2f center;
@@ -74,12 +70,42 @@ int main(int argc, char** argv) {
  
          // Draw the detected object
          cv::Mat output;
+
          cv::cvtColor(mask, output, cv::COLOR_GRAY2BGR);
          cv::circle(output, center, static_cast<int>(radius), cv::Scalar(0, 255, 0), 2);
- 
+    
+         cv::minEnclosingCircle(largest_contour, center, radius);
+         // Convert the center to an integer
+         cv::Point center_int(center.x, center.y);
+
+  
+         cv::minEnclosingCircle(largest_contour, center, radius);
+         // Convert the center to an integer
+    
+         int radius_int = radius;
+         // Draw the enclosing circle on the original frame
+         cv::circle(output, center_int, radius_int, cv::Scalar(0, 255, 0), 2);
+         // Optionally, draw the contour for comparison
+         cv::drawContours(output, contours, -1, cv::Scalar(0, 0, 255), 2);
+
+         // Real-world diameter and camera parameters
+         float real_diameter = 1.575;
+         float fx = 647.07384177;
+         float fy = 653.39571058;
+         float cx = 353.31869253;
+         float cy = 216.63488691;
+
+         // Calculate the distance
+         float px_diameter = 2 * radius_int;
+         float z = (fx * real_diameter) / px_diameter;
+         float x = (center_int.x - cx) * z / fx;
+         float y = (center_int.y - cy) * z / fy;
+
+         // Display the position of the ball
+         std::string position_text = "Ball at " + std::to_string(x) + "," + std::to_string(y) + "," + std::to_string(z);
+         cv::putText(output, position_text, cv::Point(center_int.x, center_int.y + 20), cv::FONT_HERSHEY_SIMPLEX, .5, cv::Scalar(0, 255, 0), 2, cv::LINE_AA);
          cv::imshow("Detected Object", output);
-        // cv::waitKey(0);
-         //cv::destroyAllWindows();
+         
      } else {
          std::cout << "No large object detected." << std::endl;
      }
