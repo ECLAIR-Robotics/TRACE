@@ -100,7 +100,8 @@ int main() {
 
     while (true) {
         //set_servo_angle(0, 0);    // 0 degrees
-        
+        set_pwm(0,0,307);
+
         // Neutral
         set_servo_angle(NORTH, N_NORTH); 
         set_servo_angle(SOUTH, N_SOUTH);   
