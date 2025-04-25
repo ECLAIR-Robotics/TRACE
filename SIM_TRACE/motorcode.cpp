@@ -11,6 +11,18 @@
 #define PRESCALE 0xFE
 #define LED0_ON_L 0x06
 
+// TODO: EDIT THESE VALUES TO THE CORRECT PORTS
+#define NORTH 1
+#define SOUTH 2
+#define EAST 3
+#define WEST 4
+
+// TODO: FIND THE "NEUTRAL VALUES" FOR EACH MOTOR:
+#define N_NORTH 10
+#define N_SOUTH 10
+#define N_EAST 10
+#define N_WEST 10
+
 int i2c_fd;
 
 void i2c_write_byte(uint8_t reg, uint8_t data) {
@@ -63,6 +75,15 @@ void set_servo_angle(int channel, float angle_deg) {
     set_pwm(channel, 0, pulse);
 }
 
+float translate_angle(float tilt_angle) {
+    float max_tilt = 9.5;
+    float platform_radius = 6;
+    float arm_length = 5.625;
+    tilt_angle = max_tilt > tilt_angle ? tilt_angle : max_tilt;
+    tilt_angle = -max_tilt < tilt_angle ? tilt_angle : -max_tilt;
+    return tilt_angle * (platform_radius / arm_length);
+}
+
 int main() {
     i2c_fd = open("/dev/i2c-1", O_RDWR);
     if (i2c_fd < 0) {
@@ -77,19 +98,69 @@ int main() {
 
     set_pwm_freq(50); // 50Hz for servos
 
-while (true) {
-    //set_servo_angle(0, 0);    // 0 degrees
-    
-    set_pwm(0,0,307);
-    sleep(1);
-    set_servo_angle(0, 90);   // 90 degrees
-    set_pwm(0,0,205);
-    sleep(1);
-    set_servo_angle(0, 180);  // 180 degrees
-    set_pwm(0,0,410);
-    sleep(1);
-    printf("vembis\n");
-}
+    while (true) {
+        //set_servo_angle(0, 0);    // 0 degrees
+        
+        // Neutral
+        set_servo_angle(NORTH, N_NORTH); 
+        set_servo_angle(SOUTH, N_SOUTH);   
+        set_servo_angle(EAST, N_EAST);   
+        set_servo_angle(WEST, N_WEST);  
+
+        // Far East
+        set_servo_angle(NORTH, N_NORTH); 
+        set_servo_angle(SOUTH, N_SOUTH);   
+        set_servo_angle(EAST, N_EAST+10);   
+        set_servo_angle(WEST, N_WEST-10); 
+
+        // Neutral
+        set_servo_angle(NORTH, N_NORTH); 
+        set_servo_angle(SOUTH, N_SOUTH);   
+        set_servo_angle(EAST, N_EAST);   
+        set_servo_angle(WEST, N_WEST); 
+        
+        // Far North
+        set_servo_angle(NORTH, N_NORTH+10); 
+        set_servo_angle(SOUTH, N_SOUTH-10);   
+        set_servo_angle(EAST, N_EAST);   
+        set_servo_angle(WEST, N_WEST); 
+
+        // Neutral
+        set_servo_angle(NORTH, N_NORTH); 
+        set_servo_angle(SOUTH, N_SOUTH);   
+        set_servo_angle(EAST, N_EAST);   
+        set_servo_angle(WEST, N_WEST); 
+        
+        // Far West
+        set_servo_angle(NORTH, N_NORTH); 
+        set_servo_angle(SOUTH, N_SOUTH);   
+        set_servo_angle(EAST, N_EAST-10);   
+        set_servo_angle(WEST, N_WEST+10); 
+
+        // Neutral
+        set_servo_angle(NORTH, N_NORTH); 
+        set_servo_angle(SOUTH, N_SOUTH);   
+        set_servo_angle(EAST, N_EAST);   
+        set_servo_angle(WEST, N_WEST); 
+
+        // Far South
+        set_servo_angle(NORTH, N_NORTH-10); 
+        set_servo_angle(SOUTH, N_SOUTH+10);   
+        set_servo_angle(EAST, N_EAST);   
+        set_servo_angle(WEST, N_WEST); 
+
+
+        // old test code starts here
+        // set_pwm(0,0,307);
+        // sleep(1);
+        // set_servo_angle(0, 90);   // 90 degrees
+        // set_pwm(0,0,205);
+        // sleep(1);
+        // set_servo_angle(0, 180);  // 180 degrees
+        // set_pwm(0,0,410);
+        // sleep(1);
+        // printf("vembis\n");
+    }
 
 
     close(i2c_fd);
