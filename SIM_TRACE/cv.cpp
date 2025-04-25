@@ -3,6 +3,7 @@
 #include<iostream>
 #include<opencv2/highgui/highgui.hpp>
 #include<opencv2/imgproc/imgproc.hpp>
+#include "motorcode.cpp"
 #define MIN_AREA 500  // Set a reasonable threshold based on object size
 
 using namespace std;
@@ -22,6 +23,8 @@ int main(int argc, char** argv) {
    createTrackbar("Sat_Upper", "Adjust", &Saturation_Upper_Value, 255);//track-bar for higher saturation//
    createTrackbar("Val_Lower", "Adjust", &Value_Lower, 255);//track-bar for lower value//
    createTrackbar("Val_Upper", "Adjust", &Value_Upper, 255);//track-bar for upper value//
+   // TODO: When ready for PID Control, uncomment this (1/?)
+   // init_motors();
    while (1) {
       Mat actual_Image;//matrix to load actual image//
       bool temp = video_load.read(actual_Image);//loading actual image to matrix from video stream//
@@ -105,6 +108,8 @@ int main(int argc, char** argv) {
          std::string position_text = "Ball at " + std::to_string(x) + "," + std::to_string(y) + "," + std::to_string(z);
          cv::putText(output, position_text, cv::Point(center_int.x, center_int.y + 20), cv::FONT_HERSHEY_SIMPLEX, .5, cv::Scalar(0, 255, 0), 2, cv::LINE_AA);
          cv::imshow("Detected Object", output);
+         
+         // TODO: When ready for PID Control, uncomment this (2/?)
          
      } else {
          std::cout << "No large object detected." << std::endl;
