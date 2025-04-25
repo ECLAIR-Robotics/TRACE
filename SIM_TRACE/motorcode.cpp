@@ -84,7 +84,7 @@ float translate_angle(float tilt_angle) {
     return tilt_angle * (platform_radius / arm_length);
 }
 
-int main() {
+int init_motors() {
     i2c_fd = open("/dev/i2c-1", O_RDWR);
     if (i2c_fd < 0) {
         std::cerr << "Failed to open I2C\n";
@@ -97,6 +97,13 @@ int main() {
     }
 
     set_pwm_freq(50); // 50Hz for servos
+    return 0;
+}
+
+int main() {
+    if (init_motors()) {
+        return 1;
+    }
 
     while (true) {
         //set_servo_angle(0, 0);    // 0 degrees
