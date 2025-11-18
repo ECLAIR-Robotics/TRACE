@@ -7,7 +7,7 @@
 #include "motor_driver.hpp"          // Your servo driver
 #include "platform_controller.hpp"   // Platform tilt helper
 #include "LQR_BezierController.hpp"  // LQR controller
-#include "ball_cv.h"                 // Your CV functions
+#include "ball_cv.hpp"                 // Your CV functions
 
 using namespace std;
 using namespace std::chrono;
@@ -38,30 +38,29 @@ time_t getFileModTime(const string& filepath) {
  */
 class BallTracker {
 public:
-    BallTracker(int camera_id = 2, int width = 1024, int height = 576, int padding = 224)
-        : width_(width), height_(height), padding_(padding), 
-          ball_found_(false), last_x_(0.0), last_y_(0.0) {
-        
-        // Camera calibration parameters
-        fx_ = 534.15894866f;
-        fy_ = 522.92638288f;
-        cx_ = 340.66549491f;
-        cy_ = 211.16012128f;
-        real_diameter_ = 1.575f;  // Ball diameter in inches (convert to meters if needed)
-        
+    BallTracker(int camera_id = 2) : last_grid_index(ball_cv::grid_size / 2, ball_cv::grid_size / 2) {        
         // Initialize camera
         cam_.open(camera_id, cv::CAP_V4L2);
         cam_.set(cv::CAP_PROP_FOURCC, cv::VideoWriter::fourcc('M','J','P','G'));
-        cam_.set(cv::CAP_PROP_FRAME_WIDTH, width_);
-        cam_.set(cv::CAP_PROP_FRAME_HEIGHT, height_);
+        cam_.set(cv::CAP_PROP_FRAME_WIDTH, ball_cv::width);
+        cam_.set(cv::CAP_PROP_FRAME_HEIGHT, ball_cv::height);
         cam_.set(cv::CAP_PROP_FPS, 60);
-        
+
         if (!cam_.isOpened()) {
             throw runtime_error("Could not open camera");
         }
         
-        // Generate spiral grid for ball detection
-        grid_points_ = generateSpiralGrid(8, 72);
+        // Populate the 2D grid
+        for (int y = 0; y < ball_cv::grid_size; ++y) {
+            for (int x = 0; x < ball_cv::grid_size; ++x) {
+                gridPoints[y][x] = cv::Point(ball_cv::pixels_per_point / 2 + x * ball_cv::pixels_per_point,
+                                            ball_cv::pixels_per_point / 2 + y * ball_cv::pixels_per_point);
+            }
+        }
+        
+        last_x_ = 0.0;
+        last_y_ = 0.0;
+        ball_found_ = false;
         
         cout << "Camera initialized successfully" << endl;
     }
@@ -77,50 +76,68 @@ public:
     LQRBezierController::Measurement getBallPosition() {
         cv::Mat img;
         cam_ >> img;
-        
         if (img.empty()) {
+            ball_found_ = false;
             return {last_x_, last_y_};
         }
         
         // Crop image to remove padding
-        img = img(cv::Rect(padding_, 0, width_ - padding_ * 2, height_));
-        
+        img = img(cv::Rect(
+            0 + ball_cv::x_padding, 
+            ball_cv::y_padding, 
+            ball_cv::width - ball_cv::x_padding * 2, 
+            ball_cv::height - ball_cv::y_padding * 2
+        ));
         ball_found_ = false;
-        
-        // Search for ball using spiral grid
-        for (const auto& point : grid_points_) {
-            if (isBallColor(img, point.x, point.y)) {
-                cv::Point center = getCenter(img, point);
-                
-                // Calculate 3D position
-                int leftEdge = center.x, rightEdge = center.x;
-                int centerY = center.y;
-                
-                // Find horizontal extent at center
-                while (leftEdge > 0 && isBallColor(img, leftEdge - 1, centerY)) {
-                    leftEdge -= 2;
-                }
-                while (rightEdge < width_ - padding_ * 2 && isBallColor(img, rightEdge + 1, centerY)) {
-                    rightEdge += 2;
-                }
-                
-                int diameter_px = rightEdge - leftEdge;
-                float z = (fx_ * real_diameter_) / diameter_px;
-                float x = (center.x - cx_) * z / fx_;
-                float y = (center.y - cy_) * z / fy_;
-                
-                // Convert from inches to meters if needed
-                // x /= 39.3701;  // Uncomment if real_diameter_ is in inches
-                // y /= 39.3701;
-                
-                last_x_ = x;
-                last_y_ = y;
-                ball_found_ = true;
-                
-                break;  // Found ball, no need to continue
-            }
+        int x = last_grid_index.x; // ARRAY INDEX COORDS
+        int y = last_grid_index.y;
+
+        // Failsafe in case index is bad
+        if (x < 0 || x >= ball_cv::grid_size || y < 0 || y >= ball_cv::grid_size) {
+            x = ball_cv::grid_size / 2;
+            y = ball_cv::grid_size / 2;
         }
+
+        cv::Point& startPoint = gridPoints[y][x];
         
+        // Check starting point, then begin spiral navigation if not there
+        if (isBallColor(cropped_img, startPoint.x, startPoint.y)) {
+            // Pass last_x_ and last_y_ to be updated
+            getCenter(cropped_img, startPoint, last_x_, last_y_);
+            ball_found_ = true;
+            last_grid_index.x = x;
+            last_grid_index.y = y;
+        } else {
+            int pointsChecked = 1;
+            int steps = 1;
+            while (!ball_found_) {
+                for (int dir = 0; dir < 4; dir++) {
+                    for (int i = 0; i < steps; i++) {
+                        x += ball_cv::directions[dir][0];
+                        y += ball_cv::directions[dir][1];
+                        
+                        if (x >= 0 && x < ball_cv::grid_size && y >= 0 && y < ball_cv::grid_size) {
+                            cv::Point& point = gridPoints[y][x];
+                            pointsChecked++;
+                            
+                            if (isBallColor(cropped_img, point.x, point.y)) {
+                                // Pass last_x_ and last_y_ to be updated
+                                getCenter(cropped_img, point, last_x_, last_y_);
+                                ball_found_ = true;
+                                last_grid_index.x = x;
+                                last_grid_index.y = y;
+                                break;
+                            }
+                        }
+                        // Stop if all points checked (should not happen)
+                        if (pointsChecked >= ball_cv::grid_size * ball_cv::grid_size) break;
+                    }
+                    if (ball_found_ || pointsChecked >= ball_cv::grid_size * ball_cv::grid_size) break; // Break from 'dir' loop
+                    if (dir == 1 || dir == 3) steps++;
+                }
+                if (ball_found_ || pointsChecked >= ball_cv::grid_size * ball_cv::grid_size) break;
+            }
+        }   
         return {last_x_, last_y_};
     }
     
@@ -130,12 +147,10 @@ public:
 
 private:
     cv::VideoCapture cam_;
-    std::vector<cv::Point> grid_points_;
-    int width_, height_, padding_;
-    float fx_, fy_, cx_, cy_;
-    float real_diameter_;
-    bool ball_found_;
+    cv::Point gridPoints[ball_cv::grid_size][ball_cv::grid_size];
+    cv::Point2i last_grid_index;
     double last_x_, last_y_;
+    bool ball_found_;
     
     bool isBallColor(cv::Mat& image, int x, int y) {
         if (x < 0 || x >= image.cols || y < 0 || y >= image.rows) {
@@ -146,26 +161,46 @@ private:
         return (R > 100 && R > G + 30 && R > B + 30);
     }
     
-    cv::Point getCenter(cv::Mat& image, cv::Point mark) {
+    void getCenter(cv::Mat& image, cv::Point mark, double& last_x, double& last_y) {
+        // --- Find Y-Center and vertical bounds ---
         int top = mark.y, bottom = mark.y;
         while (top > 0 && isBallColor(image, mark.x, top - 1)) {
-            top -= 2;
+            top--;
         }
         while (bottom < image.rows - 1 && isBallColor(image, mark.x, bottom + 1)) {
-            bottom += 2;
+            bottom++;
         }
-        int centerY = (top + bottom) / 2;
-        
+        double centerY = (top + bottom) / 2;
+
+        // --- Find X-Center and horizontal bounds ---
         int left = mark.x, right = mark.x;
         while (left > 0 && isBallColor(image, left - 1, mark.y)) {
-            left -= 2;
+            left--;
         }
         while (right < image.cols - 1 && isBallColor(image, right + 1, mark.y)) {
-            right += 2;
+            right++;
         }
-        int centerX = (right + left) / 2;
-        
-        return cv::Point(centerX, centerY);
+        double centerX = (right + left) / 2;
+
+        // --- Find diameter at the true center ---
+        double leftCenterEdge = centerX, rightCenterEdge = centerX;
+        while (leftCenterEdge > 0 && isBallColor(image, leftCenterEdge - 1, centerY)) {
+            leftCenterEdge--;
+        }
+
+        while (rightCenterEdge < image.cols - 1 && isBallColor(image, rightCenterEdge + 1, centerY)) {
+            rightCenterEdge++;
+        }
+        int diameter = rightCenterEdge - leftCenterEdge;
+
+        if (diameter > 0) {
+            double z = (ball_cv::fx * ball_cv::real_diameter) / diameter;
+            double x_real = (centerX - ball_cv::cx) * z / ball_cv::fx;
+            double y_real = (centerY - ball_cv::cy) * z / ball_cv::fy;
+
+            last_x = x_real;
+            last_y = y_real;
+        }
     }
 };
 
@@ -218,7 +253,7 @@ int main(int argc, char* argv[]) {
         // ==================== INITIALIZE CAMERA ====================
         
         cout << "Initializing camera..." << endl;
-        BallTracker tracker(2, 1024, 576, 224);  // camera_id=2, with your resolution
+        BallTracker tracker(2);  // camera_id=2, with your resolution
         
         // ==================== INITIALIZE LQR CONTROLLER ====================
         
